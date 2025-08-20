@@ -1,0 +1,1501 @@
+participant_id,age,gender,education_level,scenario_type,num_choices,decision_time,mental_load_score,satisfaction_score,regret_score,decision_quality
+1,56,Other,High School,Simple,6,12.25,2,6,3,Average
+1,56,Other,High School,Medium,6,28.61,5,6,4,Average
+1,56,Other,High School,Complex,6,55.79,7,6,5,Average
+2,41,Male,Master,Simple,6,18.84,3,7,2,Good
+2,41,Male,Master,Medium,6,21.76,5,8,5,Average
+2,41,Male,Master,Complex,6,35.34,6,2,6,Poor
+3,59,Male,Bachelor,Simple,6,13.74,3,8,4,Average
+3,59,Male,Bachelor,Medium,6,23.85,6,7,5,Average
+3,59,Male,Bachelor,Complex,6,51.34,8,6,4,Average
+4,56,Male,High School,Simple,6,14.48,3,9,1,Good
+4,56,Male,High School,Medium,6,20.8,6,7,4,Average
+4,56,Male,High School,Complex,6,37.08,9,6,6,Average
+5,31,Other,High School,Simple,6,9.03,3,7,2,Good
+5,31,Other,High School,Medium,6,22.14,5,5,5,Average
+5,31,Other,High School,Complex,6,42.19,9,5,4,Average
+6,57,Other,PhD,Simple,6,19.41,2,9,1,Good
+6,57,Other,PhD,Medium,6,30.42,5,4,5,Average
+6,57,Other,PhD,Complex,6,34.62,9,5,8,Poor
+7,58,Male,High School,Simple,6,10.78,2,8,1,Good
+7,58,Male,High School,Medium,6,21.41,4,7,5,Average
+7,58,Male,High School,Complex,6,50.31,6,4,8,Poor
+8,59,Male,Bachelor,Simple,6,19.66,4,7,1,Good
+8,59,Male,Bachelor,Medium,6,18.73,6,8,4,Average
+8,59,Male,Bachelor,Complex,6,38.88,9,4,6,Average
+9,18,Male,High School,Simple,6,16.63,4,6,1,Average
+9,18,Male,High School,Medium,6,24.43,5,6,2,Average
+9,18,Male,High School,Complex,6,33.85,9,6,6,Average
+10,49,Other,Bachelor,Simple,6,16.66,4,6,4,Average
+10,49,Other,Bachelor,Medium,6,37.56,4,8,4,Average
+10,49,Other,Bachelor,Complex,6,45.81,8,6,7,Poor
+11,30,Other,PhD,Simple,6,13.94,3,9,2,Good
+11,30,Other,PhD,Medium,6,22.01,5,8,3,Good
+11,30,Other,PhD,Complex,6,49.15,9,5,7,Poor
+12,37,Male,PhD,Simple,6,16.64,3,7,3,Good
+12,37,Male,PhD,Medium,6,19.58,4,4,2,Average
+12,37,Male,PhD,Complex,6,36.4,6,4,4,Average
+13,30,Other,Master,Simple,6,1.72,2,6,3,Average
+13,30,Other,Master,Medium,6,27.42,5,7,5,Average
+13,30,Other,Master,Complex,6,38.39,9,2,7,Poor
+14,29,Male,Bachelor,Simple,6,17.02,3,8,2,Good
+14,29,Male,Bachelor,Medium,6,19.69,4,6,2,Average
+14,29,Male,Bachelor,Complex,6,44.57,7,3,7,Poor
+15,40,Other,PhD,Simple,6,17.39,4,7,2,Good
+15,40,Other,PhD,Medium,6,23.19,4,7,3,Good
+15,40,Other,PhD,Complex,6,51.43,8,2,8,Poor
+16,51,Female,Master,Simple,6,18.76,3,7,3,Good
+16,51,Female,Master,Medium,6,28.59,4,7,4,Average
+16,51,Female,Master,Complex,6,45.43,7,6,6,Average
+17,37,Male,Bachelor,Simple,6,9.52,3,8,3,Good
+17,37,Male,Bachelor,Medium,6,20.22,6,7,5,Average
+17,37,Male,Bachelor,Complex,6,44.28,9,2,6,Poor
+18,45,Female,High School,Simple,6,2.65,2,6,2,Average
+18,45,Female,High School,Medium,6,30.69,5,4,5,Average
+18,45,Female,High School,Complex,6,27.69,9,2,5,Poor
+19,18,Male,PhD,Simple,6,16.3,2,6,3,Average
+19,18,Male,PhD,Medium,6,30.47,6,6,5,Average
+19,18,Male,PhD,Complex,6,42.5,9,5,6,Average
+20,25,Male,Master,Simple,6,16.73,3,9,4,Average
+20,25,Male,Master,Medium,6,12.05,4,6,2,Average
+20,25,Male,Master,Complex,6,51.69,6,3,5,Poor
+21,19,Female,Master,Simple,6,20.25,2,9,1,Good
+21,19,Female,Master,Medium,6,34.28,4,8,5,Average
+21,19,Female,Master,Complex,6,47.7,8,4,4,Average
+22,50,Male,PhD,Simple,6,21.34,4,8,2,Good
+22,50,Male,PhD,Medium,6,18.77,5,8,4,Average
+22,50,Male,PhD,Complex,6,31.84,7,4,6,Average
+23,51,Other,High School,Simple,6,21.5,4,9,1,Good
+23,51,Other,High School,Medium,6,15.6,4,7,2,Good
+23,51,Other,High School,Complex,6,67.84,9,2,4,Poor
+24,61,Female,High School,Simple,6,14.84,3,6,2,Average
+24,61,Female,High School,Medium,6,23.44,4,8,5,Average
+24,61,Female,High School,Complex,6,47.14,6,2,8,Poor
+25,48,Other,Master,Simple,6,10.77,4,6,4,Average
+25,48,Other,Master,Medium,6,14.4,6,5,2,Average
+25,48,Other,Master,Complex,6,50.96,8,3,5,Poor
+26,44,Other,Master,Simple,6,13.32,3,7,2,Good
+26,44,Other,Master,Medium,6,31.11,6,8,3,Good
+26,44,Other,Master,Complex,6,50.66,8,3,6,Poor
+27,42,Other,Bachelor,Simple,6,11.34,4,6,4,Average
+27,42,Other,Bachelor,Medium,6,26.37,4,7,2,Good
+27,42,Other,Bachelor,Complex,6,38.35,7,5,6,Average
+28,40,Other,High School,Simple,6,11.56,4,9,2,Good
+28,40,Other,High School,Medium,6,26.16,5,6,2,Average
+28,40,Other,High School,Complex,6,31.44,7,6,5,Average
+29,39,Male,Bachelor,Simple,6,16.77,2,6,4,Average
+29,39,Male,Bachelor,Medium,6,11.84,4,7,5,Average
+29,39,Male,Bachelor,Complex,6,39.52,7,6,7,Poor
+30,47,Female,High School,Simple,6,17.59,4,8,3,Good
+30,47,Female,High School,Medium,6,24.25,6,7,3,Good
+30,47,Female,High School,Complex,6,35.14,8,3,8,Poor
+31,43,Male,High School,Simple,6,11.14,3,7,1,Good
+31,43,Male,High School,Medium,6,36.63,6,5,5,Average
+31,43,Male,High School,Complex,6,57.65,9,6,8,Poor
+32,18,Female,Master,Simple,6,17.02,2,8,4,Average
+32,18,Female,Master,Medium,6,39.86,6,6,5,Average
+32,18,Female,Master,Complex,6,50.32,7,4,8,Poor
+33,39,Female,Master,Simple,6,17.22,3,7,4,Average
+33,39,Female,Master,Medium,6,30.42,4,7,2,Good
+33,39,Female,Master,Complex,6,61.13,7,3,8,Poor
+34,53,Male,Master,Simple,6,12.51,3,9,3,Good
+34,53,Male,Master,Medium,6,47.31,4,7,5,Average
+34,53,Male,Master,Complex,6,40.84,9,3,4,Poor
+35,45,Female,Bachelor,Simple,6,18.24,3,8,4,Average
+35,45,Female,Bachelor,Medium,6,25.88,4,4,2,Average
+35,45,Female,Bachelor,Complex,6,46.87,8,2,4,Poor
+36,57,Other,Master,Simple,6,15.35,3,8,4,Average
+36,57,Other,Master,Medium,6,18.82,5,5,2,Average
+36,57,Other,Master,Complex,6,33.01,8,3,6,Poor
+37,40,Other,High School,Simple,6,13.96,3,7,2,Good
+37,40,Other,High School,Medium,6,21.55,5,5,4,Average
+37,40,Other,High School,Complex,6,33.78,6,3,8,Poor
+38,28,Other,Bachelor,Simple,6,13.22,2,9,4,Average
+38,28,Other,Bachelor,Medium,6,28.14,5,8,2,Good
+38,28,Other,Bachelor,Complex,6,39.21,9,4,4,Average
+39,52,Other,Bachelor,Simple,6,6.06,4,9,4,Average
+39,52,Other,Bachelor,Medium,6,16.46,6,8,5,Average
+39,52,Other,Bachelor,Complex,6,55.53,6,4,4,Average
+40,47,Male,PhD,Simple,6,12.8,2,6,2,Average
+40,47,Male,PhD,Medium,6,7.8,4,6,4,Average
+40,47,Male,PhD,Complex,6,39.23,6,5,7,Poor
+41,58,Female,Master,Simple,6,12.94,3,8,4,Average
+41,58,Female,Master,Medium,6,31.89,6,5,4,Average
+41,58,Female,Master,Complex,6,51.24,6,5,8,Poor
+42,40,Other,Bachelor,Simple,6,25.72,2,8,1,Good
+42,40,Other,Bachelor,Medium,6,27.27,6,5,4,Average
+42,40,Other,Bachelor,Complex,6,56.75,9,2,5,Poor
+43,61,Other,Master,Simple,6,15.28,3,6,4,Average
+43,61,Other,Master,Medium,6,25.42,5,4,3,Average
+43,61,Other,Master,Complex,6,24.18,9,6,4,Average
+44,39,Male,Bachelor,Simple,6,15.4,2,8,3,Good
+44,39,Male,Bachelor,Medium,6,19.97,4,7,3,Good
+44,39,Male,Bachelor,Complex,6,37.87,8,4,5,Average
+45,43,Male,Master,Simple,6,11.38,2,6,2,Average
+45,43,Male,Master,Medium,6,11.87,5,5,5,Average
+45,43,Male,Master,Complex,6,52.71,6,5,4,Average
+46,42,Female,Master,Simple,6,18.85,2,7,1,Good
+46,42,Female,Master,Medium,6,25.49,6,7,2,Good
+46,42,Female,Master,Complex,6,49.84,9,4,6,Average
+47,37,Male,Bachelor,Simple,6,11.49,2,6,2,Average
+47,37,Male,Bachelor,Medium,6,18.23,5,6,5,Average
+47,37,Male,Bachelor,Complex,6,43.67,7,5,7,Poor
+48,25,Other,Master,Simple,6,16.05,3,9,4,Average
+48,25,Other,Master,Medium,6,10.13,5,7,5,Average
+48,25,Other,Master,Complex,6,34.74,6,2,7,Poor
+49,44,Male,PhD,Simple,6,16.71,2,6,4,Average
+49,44,Male,PhD,Medium,6,38.13,4,7,5,Average
+49,44,Male,PhD,Complex,6,47.42,7,3,5,Poor
+50,62,Female,PhD,Simple,6,22.38,2,8,4,Average
+50,62,Female,PhD,Medium,6,33.26,6,4,4,Average
+50,62,Female,PhD,Complex,6,35.31,6,3,4,Poor
+51,39,Male,Master,Simple,6,16.29,2,7,1,Good
+51,39,Male,Master,Medium,6,33.63,6,4,2,Average
+51,39,Male,Master,Complex,6,40.05,6,6,8,Poor
+52,27,Male,Bachelor,Simple,6,15.23,3,8,1,Good
+52,27,Male,Bachelor,Medium,6,19.82,4,6,2,Average
+52,27,Male,Bachelor,Complex,6,33.51,6,5,4,Average
+53,57,Other,Master,Simple,6,7.33,4,7,2,Good
+53,57,Other,Master,Medium,6,33.94,5,6,4,Average
+53,57,Other,Master,Complex,6,49.37,9,6,6,Average
+54,34,Other,PhD,Simple,6,12.15,4,8,3,Good
+54,34,Other,PhD,Medium,6,29.52,5,6,4,Average
+54,34,Other,PhD,Complex,6,53.69,8,5,5,Average
+55,55,Other,PhD,Simple,6,23.05,4,8,3,Good
+55,55,Other,PhD,Medium,6,33.92,6,5,5,Average
+55,55,Other,PhD,Complex,6,19.71,8,5,5,Average
+56,34,Female,Bachelor,Simple,6,24.81,2,6,4,Average
+56,34,Female,Bachelor,Medium,6,33.49,4,7,5,Average
+56,34,Female,Bachelor,Complex,6,38.56,9,6,5,Average
+57,23,Male,PhD,Simple,6,4.66,4,8,4,Average
+57,23,Male,PhD,Medium,6,24.38,6,6,4,Average
+57,23,Male,PhD,Complex,6,28.99,9,2,6,Poor
+58,49,Male,High School,Simple,6,17.44,4,8,1,Good
+58,49,Male,High School,Medium,6,25.53,6,6,2,Average
+58,49,Male,High School,Complex,6,43.53,6,3,7,Poor
+59,59,Male,Bachelor,Simple,6,14.46,3,7,2,Good
+59,59,Male,Bachelor,Medium,6,17.75,4,5,2,Average
+59,59,Male,Bachelor,Complex,6,33.75,8,2,6,Poor
+60,65,Other,Bachelor,Simple,6,13.63,2,6,2,Average
+60,65,Other,Bachelor,Medium,6,26.25,6,5,5,Average
+60,65,Other,Bachelor,Complex,6,40.36,8,3,8,Poor
+61,43,Other,PhD,Simple,6,17.88,3,8,3,Good
+61,43,Other,PhD,Medium,6,27.18,4,5,3,Average
+61,43,Other,PhD,Complex,6,28.3,9,2,8,Poor
+62,45,Other,High School,Simple,6,6.7,3,8,1,Good
+62,45,Other,High School,Medium,6,14.08,4,7,2,Good
+62,45,Other,High School,Complex,6,42.07,9,3,6,Poor
+63,58,Female,PhD,Simple,6,10.63,4,7,2,Good
+63,58,Female,PhD,Medium,6,24.98,6,4,5,Average
+63,58,Female,PhD,Complex,6,36.12,7,5,5,Average
+64,51,Other,PhD,Simple,6,11.66,4,9,3,Good
+64,51,Other,PhD,Medium,6,25.19,4,8,3,Good
+64,51,Other,PhD,Complex,6,41.27,6,5,6,Average
+65,47,Other,Master,Simple,6,15.24,2,9,4,Average
+65,47,Other,Master,Medium,6,19.18,6,5,5,Average
+65,47,Other,Master,Complex,6,34.23,9,4,4,Average
+66,19,Other,High School,Simple,6,18.78,4,8,4,Average
+66,19,Other,High School,Medium,6,33.69,4,5,3,Average
+66,19,Other,High School,Complex,6,39.14,9,4,7,Poor
+67,50,Other,High School,Simple,6,16.08,2,7,2,Good
+67,50,Other,High School,Medium,6,36.96,5,8,3,Good
+67,50,Other,High School,Complex,6,39.34,8,4,4,Average
+68,23,Other,Master,Simple,6,8.94,3,9,2,Good
+68,23,Other,Master,Medium,6,38.98,5,8,5,Average
+68,23,Other,Master,Complex,6,59.84,7,5,4,Average
+69,54,Other,Master,Simple,6,26.95,4,7,3,Good
+69,54,Other,Master,Medium,6,20.77,4,8,3,Good
+69,54,Other,Master,Complex,6,34.4,6,4,4,Average
+70,51,Male,Master,Simple,6,22.53,4,8,1,Good
+70,51,Male,Master,Medium,6,28.42,4,6,2,Average
+70,51,Male,Master,Complex,6,55.8,6,5,6,Average
+71,38,Female,Bachelor,Simple,6,12.13,3,7,2,Good
+71,38,Female,Bachelor,Medium,6,20.23,4,8,3,Good
+71,38,Female,Bachelor,Complex,6,52.01,8,4,8,Poor
+72,55,Female,High School,Simple,6,12.96,2,8,3,Good
+72,55,Female,High School,Medium,6,13.94,4,5,3,Average
+72,55,Female,High School,Complex,6,40.16,6,4,6,Average
+73,23,Other,Master,Simple,6,15.83,3,9,4,Average
+73,23,Other,Master,Medium,6,28.98,6,8,2,Good
+73,23,Other,Master,Complex,6,49.66,9,6,4,Average
+74,50,Other,Bachelor,Simple,6,15.41,2,6,3,Average
+74,50,Other,Bachelor,Medium,6,35.57,6,5,2,Average
+74,50,Other,Bachelor,Complex,6,44.02,7,6,7,Poor
+75,62,Other,High School,Simple,6,13.65,2,9,1,Good
+75,62,Other,High School,Medium,6,18.15,4,7,5,Average
+75,62,Other,High School,Complex,6,53.3,7,4,6,Average
+76,22,Other,Master,Simple,6,25.0,4,7,2,Good
+76,22,Other,Master,Medium,6,16.76,6,5,3,Average
+76,22,Other,Master,Complex,6,33.2,8,5,5,Average
+77,30,Other,Bachelor,Simple,6,19.34,4,9,4,Average
+77,30,Other,Bachelor,Medium,6,18.44,4,8,5,Average
+77,30,Other,Bachelor,Complex,6,52.05,8,3,4,Poor
+78,46,Male,Master,Simple,6,18.36,3,9,1,Good
+78,46,Male,Master,Medium,6,24.37,5,8,2,Good
+78,46,Male,Master,Complex,6,47.81,7,5,4,Average
+79,18,Male,High School,Simple,6,15.28,4,6,3,Average
+79,18,Male,High School,Medium,6,32.66,4,8,2,Good
+79,18,Male,High School,Complex,6,46.16,7,2,6,Poor
+80,42,Other,Master,Simple,6,11.85,3,8,2,Good
+80,42,Other,Master,Medium,6,15.97,5,6,2,Average
+80,42,Other,Master,Complex,6,27.05,9,4,6,Average
+81,61,Female,High School,Simple,6,14.05,2,8,4,Average
+81,61,Female,High School,Medium,6,27.19,5,8,5,Average
+81,61,Female,High School,Complex,6,50.39,8,3,7,Poor
+82,38,Male,Master,Simple,6,11.51,2,8,1,Good
+82,38,Male,Master,Medium,6,19.41,4,4,4,Average
+82,38,Male,Master,Complex,6,38.35,6,6,6,Average
+83,36,Female,Bachelor,Simple,6,12.76,2,6,1,Average
+83,36,Female,Bachelor,Medium,6,10.13,5,6,3,Average
+83,36,Female,Bachelor,Complex,6,50.4,7,3,7,Poor
+84,47,Male,Bachelor,Simple,6,10.0,3,8,3,Good
+84,47,Male,Bachelor,Medium,6,22.91,6,6,5,Average
+84,47,Male,Bachelor,Complex,6,32.84,7,3,6,Poor
+85,63,Other,High School,Simple,6,22.07,4,9,4,Average
+85,63,Other,High School,Medium,6,25.88,5,8,5,Average
+85,63,Other,High School,Complex,6,47.22,6,2,8,Poor
+86,20,Male,PhD,Simple,6,9.35,4,6,4,Average
+86,20,Male,PhD,Medium,6,22.55,5,6,5,Average
+86,20,Male,PhD,Complex,6,37.71,9,5,8,Poor
+87,38,Male,Bachelor,Simple,6,6.53,3,8,2,Good
+87,38,Male,Bachelor,Medium,6,18.7,6,4,4,Average
+87,38,Male,Bachelor,Complex,6,43.3,7,3,4,Poor
+88,64,Male,PhD,Simple,6,19.35,2,9,3,Good
+88,64,Male,PhD,Medium,6,20.07,6,7,5,Average
+88,64,Male,PhD,Complex,6,25.92,6,6,4,Average
+89,51,Other,Bachelor,Simple,6,13.17,3,7,4,Average
+89,51,Other,Bachelor,Medium,6,28.31,4,5,3,Average
+89,51,Other,Bachelor,Complex,6,49.72,9,2,5,Poor
+90,34,Female,PhD,Simple,6,14.85,3,6,4,Average
+90,34,Female,PhD,Medium,6,19.44,4,6,3,Average
+90,34,Female,PhD,Complex,6,56.21,9,3,5,Poor
+91,46,Male,Bachelor,Simple,6,12.3,4,7,2,Good
+91,46,Male,Bachelor,Medium,6,19.55,4,5,5,Average
+91,46,Male,Bachelor,Complex,6,32.4,6,2,5,Poor
+92,29,Other,Master,Simple,6,14.98,4,6,2,Average
+92,29,Other,Master,Medium,6,22.03,6,6,5,Average
+92,29,Other,Master,Complex,6,33.54,7,5,8,Poor
+93,24,Female,Master,Simple,6,20.93,2,9,2,Good
+93,24,Female,Master,Medium,6,26.8,5,5,5,Average
+93,24,Female,Master,Complex,6,41.47,6,6,6,Average
+94,57,Female,PhD,Simple,6,13.89,4,9,4,Average
+94,57,Female,PhD,Medium,6,18.17,6,5,4,Average
+94,57,Female,PhD,Complex,6,50.54,8,6,4,Average
+95,53,Male,Bachelor,Simple,6,8.84,4,6,2,Average
+95,53,Male,Bachelor,Medium,6,26.02,6,8,4,Average
+95,53,Male,Bachelor,Complex,6,51.49,6,2,4,Poor
+96,57,Male,High School,Simple,6,11.48,2,6,1,Average
+96,57,Male,High School,Medium,6,30.38,4,6,4,Average
+96,57,Male,High School,Complex,6,56.01,7,6,7,Poor
+97,61,Female,High School,Simple,6,13.46,4,8,1,Good
+97,61,Female,High School,Medium,6,20.39,4,4,3,Average
+97,61,Female,High School,Complex,6,42.18,9,4,8,Poor
+98,34,Other,Bachelor,Simple,6,24.73,4,6,2,Average
+98,34,Other,Bachelor,Medium,6,25.28,5,4,5,Average
+98,34,Other,Bachelor,Complex,6,40.11,8,4,5,Average
+99,58,Other,Bachelor,Simple,6,17.15,4,7,1,Good
+99,58,Other,Bachelor,Medium,6,26.45,5,5,4,Average
+99,58,Other,Bachelor,Complex,6,44.47,7,4,8,Poor
+100,35,Male,High School,Simple,6,13.93,4,7,4,Average
+100,35,Male,High School,Medium,6,21.74,5,4,3,Average
+100,35,Male,High School,Complex,6,48.87,8,4,7,Poor
+101,62,Other,High School,Simple,6,16.11,3,8,3,Good
+101,62,Other,High School,Medium,6,21.65,6,4,5,Average
+101,62,Other,High School,Complex,6,33.49,7,2,8,Poor
+102,59,Male,High School,Simple,6,20.22,3,7,3,Good
+102,59,Male,High School,Medium,6,26.79,6,8,2,Good
+102,59,Male,High School,Complex,6,39.8,7,4,6,Average
+103,56,Male,Master,Simple,6,27.99,4,6,2,Average
+103,56,Male,Master,Medium,6,20.45,5,4,4,Average
+103,56,Male,Master,Complex,6,55.8,7,2,6,Poor
+104,62,Male,Bachelor,Simple,6,12.39,3,9,2,Good
+104,62,Male,Bachelor,Medium,6,28.18,4,4,5,Average
+104,62,Male,Bachelor,Complex,6,47.44,6,6,4,Average
+105,32,Female,PhD,Simple,6,22.75,4,7,1,Good
+105,32,Female,PhD,Medium,6,18.01,4,8,4,Average
+105,32,Female,PhD,Complex,6,42.74,8,4,8,Poor
+106,51,Male,Bachelor,Simple,6,15.25,2,8,4,Average
+106,51,Male,Bachelor,Medium,6,23.96,4,8,4,Average
+106,51,Male,Bachelor,Complex,6,33.41,6,3,6,Poor
+107,51,Other,PhD,Simple,6,12.92,3,8,4,Average
+107,51,Other,PhD,Medium,6,24.27,5,8,2,Good
+107,51,Other,PhD,Complex,6,27.51,6,4,7,Poor
+108,59,Male,PhD,Simple,6,17.86,4,7,2,Good
+108,59,Male,PhD,Medium,6,19.17,6,8,5,Average
+108,59,Male,PhD,Complex,6,44.71,6,2,4,Poor
+109,21,Female,Bachelor,Simple,6,10.8,2,9,3,Good
+109,21,Female,Bachelor,Medium,6,26.15,6,7,2,Good
+109,21,Female,Bachelor,Complex,6,42.86,9,2,8,Poor
+110,28,Male,High School,Simple,6,16.67,4,7,4,Average
+110,28,Male,High School,Medium,6,23.35,5,8,5,Average
+110,28,Male,High School,Complex,6,41.02,9,6,7,Poor
+111,22,Other,PhD,Simple,6,15.22,4,7,3,Good
+111,22,Other,PhD,Medium,6,32.21,5,6,2,Average
+111,22,Other,PhD,Complex,6,45.84,8,5,4,Average
+112,65,Female,PhD,Simple,6,13.2,2,6,3,Average
+112,65,Female,PhD,Medium,6,27.22,6,8,4,Average
+112,65,Female,PhD,Complex,6,33.7,6,3,4,Poor
+113,48,Female,PhD,Simple,6,14.16,4,6,2,Average
+113,48,Female,PhD,Medium,6,26.03,6,5,5,Average
+113,48,Female,PhD,Complex,6,55.67,9,3,8,Poor
+114,63,Other,High School,Simple,6,16.72,4,6,1,Average
+114,63,Other,High School,Medium,6,15.48,4,6,5,Average
+114,63,Other,High School,Complex,6,47.46,7,4,5,Average
+115,58,Other,High School,Simple,6,14.52,4,7,1,Good
+115,58,Other,High School,Medium,6,26.95,4,7,5,Average
+115,58,Other,High School,Complex,6,35.54,8,2,7,Poor
+116,39,Male,PhD,Simple,6,15.97,2,7,2,Good
+116,39,Male,PhD,Medium,6,33.37,6,5,3,Average
+116,39,Male,PhD,Complex,6,24.77,7,6,7,Poor
+117,53,Other,Master,Simple,6,20.52,4,6,3,Average
+117,53,Other,Master,Medium,6,37.08,4,6,4,Average
+117,53,Other,Master,Complex,6,34.45,7,3,8,Poor
+118,21,Male,Bachelor,Simple,6,24.41,2,8,1,Good
+118,21,Male,Bachelor,Medium,6,25.62,4,8,4,Average
+118,21,Male,Bachelor,Complex,6,51.66,9,3,7,Poor
+119,39,Male,Bachelor,Simple,6,17.15,2,8,4,Average
+119,39,Male,Bachelor,Medium,6,26.7,5,6,2,Average
+119,39,Male,Bachelor,Complex,6,21.53,7,5,5,Average
+120,52,Other,PhD,Simple,6,12.17,2,6,4,Average
+120,52,Other,PhD,Medium,6,31.65,6,7,3,Good
+120,52,Other,PhD,Complex,6,36.57,6,2,8,Poor
+121,25,Male,PhD,Simple,6,17.85,4,8,1,Good
+121,25,Male,PhD,Medium,6,28.13,4,7,3,Good
+121,25,Male,PhD,Complex,6,52.49,6,2,7,Poor
+122,37,Male,Master,Simple,6,17.46,2,7,4,Average
+122,37,Male,Master,Medium,6,19.81,5,8,2,Good
+122,37,Male,Master,Complex,6,39.86,7,4,8,Poor
+123,34,Female,Bachelor,Simple,6,12.74,4,7,4,Average
+123,34,Female,Bachelor,Medium,6,8.03,6,8,2,Good
+123,34,Female,Bachelor,Complex,6,43.72,9,4,6,Average
+124,41,Male,PhD,Simple,6,17.39,2,6,4,Average
+124,41,Male,PhD,Medium,6,41.81,4,5,5,Average
+124,41,Male,PhD,Complex,6,39.77,9,3,7,Poor
+125,50,Other,High School,Simple,6,10.62,2,7,1,Good
+125,50,Other,High School,Medium,6,25.26,4,7,3,Good
+125,50,Other,High School,Complex,6,29.98,8,3,5,Poor
+126,32,Male,High School,Simple,6,13.59,3,7,3,Good
+126,32,Male,High School,Medium,6,27.46,4,6,4,Average
+126,32,Male,High School,Complex,6,41.33,7,2,4,Poor
+127,56,Male,Bachelor,Simple,6,7.33,3,9,2,Good
+127,56,Male,Bachelor,Medium,6,31.03,5,6,4,Average
+127,56,Male,Bachelor,Complex,6,53.17,7,4,4,Average
+128,59,Male,PhD,Simple,6,15.99,3,8,2,Good
+128,59,Male,PhD,Medium,6,17.78,6,8,4,Average
+128,59,Male,PhD,Complex,6,34.71,9,4,7,Poor
+129,35,Female,PhD,Simple,6,17.53,4,8,4,Average
+129,35,Female,PhD,Medium,6,11.02,5,6,4,Average
+129,35,Female,PhD,Complex,6,35.88,8,2,7,Poor
+130,47,Male,PhD,Simple,6,7.94,2,8,2,Good
+130,47,Male,PhD,Medium,6,21.62,5,7,5,Average
+130,47,Male,PhD,Complex,6,55.74,9,3,4,Poor
+131,49,Male,Bachelor,Simple,6,12.95,3,9,4,Average
+131,49,Male,Bachelor,Medium,6,25.54,5,5,5,Average
+131,49,Male,Bachelor,Complex,6,23.67,8,3,8,Poor
+132,29,Female,High School,Simple,6,12.14,4,6,2,Average
+132,29,Female,High School,Medium,6,34.64,6,5,5,Average
+132,29,Female,High School,Complex,6,47.77,9,3,7,Poor
+133,31,Female,Master,Simple,6,14.87,3,7,4,Average
+133,31,Female,Master,Medium,6,33.21,4,4,5,Average
+133,31,Female,Master,Complex,6,28.44,8,2,4,Poor
+134,45,Female,Master,Simple,6,16.6,3,8,1,Good
+134,45,Female,Master,Medium,6,25.12,4,6,3,Average
+134,45,Female,Master,Complex,6,39.06,8,3,8,Poor
+135,27,Female,PhD,Simple,6,10.57,2,9,4,Average
+135,27,Female,PhD,Medium,6,27.97,6,7,2,Good
+135,27,Female,PhD,Complex,6,32.58,9,2,6,Poor
+136,54,Male,Bachelor,Simple,6,8.48,4,6,4,Average
+136,54,Male,Bachelor,Medium,6,33.5,6,7,4,Average
+136,54,Male,Bachelor,Complex,6,39.1,6,5,5,Average
+137,31,Female,Bachelor,Simple,6,15.24,3,6,1,Average
+137,31,Female,Bachelor,Medium,6,20.19,6,6,3,Average
+137,31,Female,Bachelor,Complex,6,41.91,9,3,7,Poor
+138,41,Male,High School,Simple,6,10.53,4,8,2,Good
+138,41,Male,High School,Medium,6,25.98,4,6,3,Average
+138,41,Male,High School,Complex,6,44.53,8,5,7,Poor
+139,40,Other,Master,Simple,6,10.31,4,9,2,Good
+139,40,Other,Master,Medium,6,29.51,4,4,4,Average
+139,40,Other,Master,Complex,6,33.76,6,3,4,Poor
+140,43,Male,High School,Simple,6,24.57,4,7,2,Good
+140,43,Male,High School,Medium,6,41.82,6,4,5,Average
+140,43,Male,High School,Complex,6,39.42,8,2,7,Poor
+141,50,Other,PhD,Simple,6,18.09,3,6,4,Average
+141,50,Other,PhD,Medium,6,25.99,4,4,3,Average
+141,50,Other,PhD,Complex,6,30.1,9,2,4,Poor
+142,58,Other,Bachelor,Simple,6,12.8,2,9,1,Good
+142,58,Other,Bachelor,Medium,6,27.38,4,6,5,Average
+142,58,Other,Bachelor,Complex,6,54.35,7,6,7,Poor
+143,55,Male,High School,Simple,6,19.51,2,6,3,Average
+143,55,Male,High School,Medium,6,24.03,6,8,4,Average
+143,55,Male,High School,Complex,6,25.31,8,2,8,Poor
+144,32,Male,High School,Simple,6,10.5,2,9,2,Good
+144,32,Male,High School,Medium,6,36.16,4,4,2,Average
+144,32,Male,High School,Complex,6,31.53,6,2,6,Poor
+145,61,Other,High School,Simple,6,15.21,3,7,2,Good
+145,61,Other,High School,Medium,6,23.37,5,4,4,Average
+145,61,Other,High School,Complex,6,46.22,7,5,8,Poor
+146,46,Other,Bachelor,Simple,6,15.29,3,6,4,Average
+146,46,Other,Bachelor,Medium,6,25.63,6,7,5,Average
+146,46,Other,Bachelor,Complex,6,28.19,8,4,5,Average
+147,61,Female,High School,Simple,6,18.79,2,9,3,Good
+147,61,Female,High School,Medium,6,26.97,6,7,2,Good
+147,61,Female,High School,Complex,6,26.02,7,6,7,Poor
+148,65,Other,Bachelor,Simple,6,14.52,2,9,2,Good
+148,65,Other,Bachelor,Medium,6,31.8,6,5,5,Average
+148,65,Other,Bachelor,Complex,6,33.83,7,3,5,Poor
+149,30,Other,High School,Simple,6,10.09,4,8,3,Good
+149,30,Other,High School,Medium,6,23.43,5,8,4,Average
+149,30,Other,High School,Complex,6,33.99,7,6,5,Average
+150,53,Other,High School,Simple,6,16.6,3,8,2,Good
+150,53,Other,High School,Medium,6,20.95,5,6,2,Average
+150,53,Other,High School,Complex,6,40.64,8,6,7,Poor
+151,26,Female,Master,Simple,6,17.9,3,6,1,Average
+151,26,Female,Master,Medium,6,33.12,5,4,3,Average
+151,26,Female,Master,Complex,6,31.43,9,4,7,Poor
+152,56,Female,Bachelor,Simple,6,9.71,3,6,2,Average
+152,56,Female,Bachelor,Medium,6,21.03,6,5,2,Average
+152,56,Female,Bachelor,Complex,6,44.32,8,2,6,Poor
+153,61,Other,Master,Simple,6,13.23,2,7,4,Average
+153,61,Other,Master,Medium,6,28.17,4,6,5,Average
+153,61,Other,Master,Complex,6,45.59,6,6,8,Poor
+154,42,Male,Master,Simple,6,9.05,3,9,3,Good
+154,42,Male,Master,Medium,6,36.71,5,8,4,Average
+154,42,Male,Master,Complex,6,49.23,6,2,6,Poor
+155,56,Female,Bachelor,Simple,6,20.21,3,7,2,Good
+155,56,Female,Bachelor,Medium,6,21.36,6,8,3,Good
+155,56,Female,Bachelor,Complex,6,48.1,9,4,4,Average
+156,25,Other,Master,Simple,6,8.45,2,8,2,Good
+156,25,Other,Master,Medium,6,20.89,4,7,3,Good
+156,25,Other,Master,Complex,6,38.02,9,6,7,Poor
+157,44,Female,Master,Simple,6,8.27,3,8,2,Good
+157,44,Female,Master,Medium,6,30.77,4,5,4,Average
+157,44,Female,Master,Complex,6,25.0,8,3,7,Poor
+158,25,Male,High School,Simple,6,8.35,3,9,2,Good
+158,25,Male,High School,Medium,6,18.07,5,4,4,Average
+158,25,Male,High School,Complex,6,46.29,9,5,4,Average
+159,33,Female,High School,Simple,6,20.46,3,6,3,Average
+159,33,Female,High School,Medium,6,29.26,6,8,5,Average
+159,33,Female,High School,Complex,6,40.73,6,6,7,Poor
+160,23,Male,Bachelor,Simple,6,18.9,3,7,4,Average
+160,23,Male,Bachelor,Medium,6,21.31,5,7,3,Good
+160,23,Male,Bachelor,Complex,6,43.62,6,5,4,Average
+161,40,Other,Master,Simple,6,11.07,2,7,3,Good
+161,40,Other,Master,Medium,6,15.68,4,4,2,Average
+161,40,Other,Master,Complex,6,31.52,8,3,7,Poor
+162,35,Male,Master,Simple,6,6.99,4,7,3,Good
+162,35,Male,Master,Medium,6,27.56,4,7,3,Good
+162,35,Male,Master,Complex,6,54.02,9,2,5,Poor
+163,55,Male,Bachelor,Simple,6,12.81,3,7,2,Good
+163,55,Male,Bachelor,Medium,6,33.16,5,6,5,Average
+163,55,Male,Bachelor,Complex,6,45.78,8,6,6,Average
+164,19,Female,Master,Simple,6,12.39,4,7,3,Good
+164,19,Female,Master,Medium,6,25.2,5,4,3,Average
+164,19,Female,Master,Complex,6,39.91,6,6,4,Average
+165,53,Male,PhD,Simple,6,9.88,3,7,1,Good
+165,53,Male,PhD,Medium,6,27.11,6,6,2,Average
+165,53,Male,PhD,Complex,6,45.1,7,6,5,Average
+166,21,Other,Master,Simple,6,19.99,2,8,4,Average
+166,21,Other,Master,Medium,6,26.69,6,7,3,Good
+166,21,Other,Master,Complex,6,30.3,6,5,8,Poor
+167,60,Other,High School,Simple,6,22.65,4,8,3,Good
+167,60,Other,High School,Medium,6,33.53,4,6,3,Average
+167,60,Other,High School,Complex,6,33.11,8,3,8,Poor
+168,48,Other,Master,Simple,6,14.69,4,6,3,Average
+168,48,Other,Master,Medium,6,21.05,4,7,3,Good
+168,48,Other,Master,Complex,6,35.89,7,4,7,Poor
+169,50,Other,High School,Simple,6,15.8,2,6,3,Average
+169,50,Other,High School,Medium,6,25.02,4,7,5,Average
+169,50,Other,High School,Complex,6,14.46,8,6,7,Poor
+170,52,Male,Master,Simple,6,19.67,4,8,4,Average
+170,52,Male,Master,Medium,6,15.78,4,8,3,Good
+170,52,Male,Master,Complex,6,39.25,8,3,6,Poor
+171,38,Male,High School,Simple,6,12.27,4,6,1,Average
+171,38,Male,High School,Medium,6,27.74,4,8,3,Good
+171,38,Male,High School,Complex,6,30.06,9,4,8,Poor
+172,43,Other,Bachelor,Simple,6,14.85,3,9,2,Good
+172,43,Other,Bachelor,Medium,6,33.18,6,4,2,Average
+172,43,Other,Bachelor,Complex,6,31.37,9,6,5,Average
+173,38,Female,Master,Simple,6,16.46,2,6,2,Average
+173,38,Female,Master,Medium,6,19.89,4,4,3,Average
+173,38,Female,Master,Complex,6,39.12,9,6,7,Poor
+174,28,Other,Bachelor,Simple,6,15.76,4,7,4,Average
+174,28,Other,Bachelor,Medium,6,26.94,6,4,5,Average
+174,28,Other,Bachelor,Complex,6,47.99,8,6,6,Average
+175,22,Other,Master,Simple,6,15.44,2,9,1,Good
+175,22,Other,Master,Medium,6,37.05,4,6,2,Average
+175,22,Other,Master,Complex,6,31.98,7,5,6,Average
+176,32,Male,Master,Simple,6,21.49,4,8,3,Good
+176,32,Male,Master,Medium,6,21.84,4,8,3,Good
+176,32,Male,Master,Complex,6,35.64,7,3,7,Poor
+177,34,Other,PhD,Simple,6,19.98,2,6,2,Average
+177,34,Other,PhD,Medium,6,19.7,6,5,4,Average
+177,34,Other,PhD,Complex,6,42.81,7,2,4,Poor
+178,42,Female,High School,Simple,6,10.37,3,8,2,Good
+178,42,Female,High School,Medium,6,22.84,6,5,3,Average
+178,42,Female,High School,Complex,6,46.87,6,6,7,Poor
+179,51,Male,PhD,Simple,6,13.18,3,8,1,Good
+179,51,Male,PhD,Medium,6,19.13,4,6,3,Average
+179,51,Male,PhD,Complex,6,60.56,7,5,7,Poor
+180,38,Female,High School,Simple,6,9.48,4,7,1,Good
+180,38,Female,High School,Medium,6,15.62,5,4,5,Average
+180,38,Female,High School,Complex,6,49.13,6,3,8,Poor
+181,30,Male,Master,Simple,6,16.86,4,9,4,Average
+181,30,Male,Master,Medium,6,36.19,6,6,2,Average
+181,30,Male,Master,Complex,6,39.06,8,5,6,Average
+182,48,Male,Master,Simple,6,14.57,4,8,3,Good
+182,48,Male,Master,Medium,6,28.46,6,8,2,Good
+182,48,Male,Master,Complex,6,47.24,6,4,6,Average
+183,40,Male,PhD,Simple,6,18.77,4,6,4,Average
+183,40,Male,PhD,Medium,6,27.67,4,5,3,Average
+183,40,Male,PhD,Complex,6,37.91,7,3,6,Poor
+184,42,Other,PhD,Simple,6,10.75,3,6,4,Average
+184,42,Other,PhD,Medium,6,28.03,5,4,5,Average
+184,42,Other,PhD,Complex,6,51.87,6,2,7,Poor
+185,53,Other,High School,Simple,6,7.75,4,8,3,Good
+185,53,Other,High School,Medium,6,17.26,5,6,2,Average
+185,53,Other,High School,Complex,6,37.12,9,5,5,Average
+186,41,Male,High School,Simple,6,10.29,3,8,2,Good
+186,41,Male,High School,Medium,6,15.07,6,8,3,Good
+186,41,Male,High School,Complex,6,22.39,7,5,7,Poor
+187,62,Other,Bachelor,Simple,6,15.91,2,7,3,Good
+187,62,Other,Bachelor,Medium,6,19.15,4,5,4,Average
+187,62,Other,Bachelor,Complex,6,37.56,9,3,5,Poor
+188,36,Other,High School,Simple,6,15.55,4,9,4,Average
+188,36,Other,High School,Medium,6,32.63,6,8,5,Average
+188,36,Other,High School,Complex,6,25.79,7,3,8,Poor
+189,48,Female,Bachelor,Simple,6,15.41,2,9,2,Good
+189,48,Female,Bachelor,Medium,6,34.15,6,4,4,Average
+189,48,Female,Bachelor,Complex,6,33.62,6,4,7,Poor
+190,64,Female,Bachelor,Simple,6,8.44,4,6,4,Average
+190,64,Female,Bachelor,Medium,6,18.85,5,7,5,Average
+190,64,Female,Bachelor,Complex,6,34.6,9,4,7,Poor
+191,28,Male,Master,Simple,6,16.52,3,7,3,Good
+191,28,Male,Master,Medium,6,15.36,4,6,2,Average
+191,28,Male,Master,Complex,6,56.87,7,2,6,Poor
+192,62,Female,High School,Simple,6,23.37,4,6,3,Average
+192,62,Female,High School,Medium,6,21.74,6,8,2,Good
+192,62,Female,High School,Complex,6,24.05,9,6,7,Poor
+193,38,Female,Bachelor,Simple,6,9.15,3,7,4,Average
+193,38,Female,Bachelor,Medium,6,4.89,5,5,4,Average
+193,38,Female,Bachelor,Complex,6,56.61,7,2,7,Poor
+194,61,Other,Bachelor,Simple,6,12.71,2,8,4,Average
+194,61,Other,Bachelor,Medium,6,27.47,5,7,3,Good
+194,61,Other,Bachelor,Complex,6,41.22,7,5,6,Average
+195,45,Other,High School,Simple,6,9.65,2,6,2,Average
+195,45,Other,High School,Medium,6,11.44,4,8,5,Average
+195,45,Other,High School,Complex,6,15.76,8,3,6,Poor
+196,37,Female,PhD,Simple,6,19.42,4,9,3,Good
+196,37,Female,PhD,Medium,6,33.12,5,4,2,Average
+196,37,Female,PhD,Complex,6,36.23,7,6,5,Average
+197,22,Other,Bachelor,Simple,6,9.45,2,8,3,Good
+197,22,Other,Bachelor,Medium,6,28.97,4,8,5,Average
+197,22,Other,Bachelor,Complex,6,31.77,7,2,4,Poor
+198,41,Male,Bachelor,Simple,6,14.18,2,6,2,Average
+198,41,Male,Bachelor,Medium,6,32.08,6,4,2,Average
+198,41,Male,Bachelor,Complex,6,17.16,7,3,4,Poor
+199,27,Male,PhD,Simple,6,17.18,3,9,4,Average
+199,27,Male,PhD,Medium,6,31.33,6,8,4,Average
+199,27,Male,PhD,Complex,6,32.89,9,5,6,Average
+200,27,Male,Bachelor,Simple,6,15.37,4,9,3,Good
+200,27,Male,Bachelor,Medium,6,20.6,6,8,5,Average
+200,27,Male,Bachelor,Complex,6,46.02,7,5,7,Poor
+201,39,Other,Master,Simple,6,10.13,3,8,1,Good
+201,39,Other,Master,Medium,6,28.22,4,5,5,Average
+201,39,Other,Master,Complex,6,39.39,9,5,4,Average
+202,59,Female,Bachelor,Simple,6,11.32,4,7,3,Good
+202,59,Female,Bachelor,Medium,6,32.27,5,6,4,Average
+202,59,Female,Bachelor,Complex,6,45.05,6,4,6,Average
+203,29,Female,Bachelor,Simple,6,5.85,2,9,1,Good
+203,29,Female,Bachelor,Medium,6,26.4,4,4,4,Average
+203,29,Female,Bachelor,Complex,6,12.4,7,5,5,Average
+204,24,Other,High School,Simple,6,20.32,4,6,3,Average
+204,24,Other,High School,Medium,6,42.81,6,8,5,Average
+204,24,Other,High School,Complex,6,41.83,9,4,8,Poor
+205,21,Female,High School,Simple,6,10.7,2,8,1,Good
+205,21,Female,High School,Medium,6,33.0,6,8,2,Good
+205,21,Female,High School,Complex,6,30.77,9,3,6,Poor
+206,44,Female,Bachelor,Simple,6,20.87,2,6,3,Average
+206,44,Female,Bachelor,Medium,6,37.55,5,5,3,Average
+206,44,Female,Bachelor,Complex,6,42.24,7,6,6,Average
+207,45,Male,PhD,Simple,6,16.35,3,7,3,Good
+207,45,Male,PhD,Medium,6,27.13,4,6,3,Average
+207,45,Male,PhD,Complex,6,38.35,6,3,6,Poor
+208,29,Female,Master,Simple,6,21.53,3,7,4,Average
+208,29,Female,Master,Medium,6,30.88,5,4,2,Average
+208,29,Female,Master,Complex,6,45.47,8,5,5,Average
+209,58,Male,Bachelor,Simple,6,11.08,4,6,3,Average
+209,58,Male,Bachelor,Medium,6,29.26,5,4,2,Average
+209,58,Male,Bachelor,Complex,6,44.29,8,4,4,Average
+210,37,Male,Bachelor,Simple,6,16.91,2,9,2,Good
+210,37,Male,Bachelor,Medium,6,33.36,6,4,5,Average
+210,37,Male,Bachelor,Complex,6,28.79,9,2,6,Poor
+211,21,Female,Master,Simple,6,13.32,4,8,1,Good
+211,21,Female,Master,Medium,6,28.03,6,4,2,Average
+211,21,Female,Master,Complex,6,54.58,9,5,4,Average
+212,56,Female,High School,Simple,6,12.42,2,8,4,Average
+212,56,Female,High School,Medium,6,16.52,4,6,4,Average
+212,56,Female,High School,Complex,6,48.34,8,4,6,Average
+213,51,Female,Master,Simple,6,6.48,2,9,2,Good
+213,51,Female,Master,Medium,6,9.06,6,6,3,Average
+213,51,Female,Master,Complex,6,39.02,6,2,5,Poor
+214,55,Other,PhD,Simple,6,22.06,4,7,4,Average
+214,55,Other,PhD,Medium,6,28.79,4,4,4,Average
+214,55,Other,PhD,Complex,6,48.85,9,2,7,Poor
+215,36,Other,Master,Simple,6,16.84,2,7,1,Good
+215,36,Other,Master,Medium,6,37.87,4,7,2,Good
+215,36,Other,Master,Complex,6,47.45,6,5,6,Average
+216,21,Male,High School,Simple,6,10.57,3,6,1,Average
+216,21,Male,High School,Medium,6,31.32,6,8,3,Good
+216,21,Male,High School,Complex,6,42.14,6,5,6,Average
+217,28,Female,Bachelor,Simple,6,11.33,2,8,4,Average
+217,28,Female,Bachelor,Medium,6,25.25,4,8,2,Good
+217,28,Female,Bachelor,Complex,6,34.87,8,2,5,Poor
+218,41,Other,Master,Simple,6,15.14,2,9,1,Good
+218,41,Other,Master,Medium,6,21.37,5,7,3,Good
+218,41,Other,Master,Complex,6,42.41,8,2,6,Poor
+219,43,Male,High School,Simple,6,13.26,2,8,2,Good
+219,43,Male,High School,Medium,6,22.51,4,8,4,Average
+219,43,Male,High School,Complex,6,40.75,9,5,7,Poor
+220,62,Other,PhD,Simple,6,6.99,4,7,4,Average
+220,62,Other,PhD,Medium,6,25.86,6,4,2,Average
+220,62,Other,PhD,Complex,6,45.51,9,2,5,Poor
+221,34,Female,Master,Simple,6,15.53,4,9,3,Good
+221,34,Female,Master,Medium,6,21.71,5,4,2,Average
+221,34,Female,Master,Complex,6,37.8,9,4,8,Poor
+222,37,Female,High School,Simple,6,4.66,2,6,1,Average
+222,37,Female,High School,Medium,6,22.84,4,8,2,Good
+222,37,Female,High School,Complex,6,32.48,9,3,6,Poor
+223,58,Female,Bachelor,Simple,6,11.1,2,6,4,Average
+223,58,Female,Bachelor,Medium,6,23.64,4,6,4,Average
+223,58,Female,Bachelor,Complex,6,50.76,6,4,6,Average
+224,28,Female,High School,Simple,6,15.11,2,8,2,Good
+224,28,Female,High School,Medium,6,22.41,6,7,5,Average
+224,28,Female,High School,Complex,6,28.76,9,6,8,Poor
+225,62,Other,PhD,Simple,6,7.09,2,7,3,Good
+225,62,Other,PhD,Medium,6,31.27,5,8,5,Average
+225,62,Other,PhD,Complex,6,48.11,6,5,5,Average
+226,35,Male,Bachelor,Simple,6,17.68,3,9,2,Good
+226,35,Male,Bachelor,Medium,6,29.12,4,6,4,Average
+226,35,Male,Bachelor,Complex,6,50.86,9,5,4,Average
+227,50,Female,PhD,Simple,6,6.63,2,8,2,Good
+227,50,Female,PhD,Medium,6,18.73,6,8,2,Good
+227,50,Female,PhD,Complex,6,48.09,6,3,5,Poor
+228,26,Male,Master,Simple,6,16.53,2,8,4,Average
+228,26,Male,Master,Medium,6,28.16,4,5,2,Average
+228,26,Male,Master,Complex,6,29.25,7,4,5,Average
+229,34,Other,Master,Simple,6,16.58,4,6,3,Average
+229,34,Other,Master,Medium,6,38.31,4,5,2,Average
+229,34,Other,Master,Complex,6,41.6,8,2,4,Poor
+230,55,Other,High School,Simple,6,9.86,2,7,3,Good
+230,55,Other,High School,Medium,6,37.88,6,4,2,Average
+230,55,Other,High School,Complex,6,32.55,7,3,7,Poor
+231,61,Other,Master,Simple,6,17.64,4,6,3,Average
+231,61,Other,Master,Medium,6,28.42,6,6,5,Average
+231,61,Other,Master,Complex,6,39.22,9,3,7,Poor
+232,54,Other,Master,Simple,6,13.27,4,9,1,Good
+232,54,Other,Master,Medium,6,22.84,6,8,3,Good
+232,54,Other,Master,Complex,6,47.8,9,3,7,Poor
+233,52,Other,PhD,Simple,6,12.19,3,8,1,Good
+233,52,Other,PhD,Medium,6,23.54,4,8,5,Average
+233,52,Other,PhD,Complex,6,27.66,9,2,7,Poor
+234,62,Female,PhD,Simple,6,12.04,3,6,2,Average
+234,62,Female,PhD,Medium,6,25.04,6,8,5,Average
+234,62,Female,PhD,Complex,6,35.24,7,4,6,Average
+235,44,Other,Master,Simple,6,13.71,3,7,1,Good
+235,44,Other,Master,Medium,6,36.19,5,8,2,Good
+235,44,Other,Master,Complex,6,39.07,8,5,5,Average
+236,26,Other,Bachelor,Simple,6,16.14,2,6,1,Average
+236,26,Other,Bachelor,Medium,6,17.47,4,8,5,Average
+236,26,Other,Bachelor,Complex,6,43.3,9,5,8,Poor
+237,54,Male,PhD,Simple,6,28.16,2,7,1,Good
+237,54,Male,PhD,Medium,6,12.36,6,6,4,Average
+237,54,Male,PhD,Complex,6,29.37,8,3,4,Poor
+238,38,Other,PhD,Simple,6,10.63,3,8,4,Average
+238,38,Other,PhD,Medium,6,29.44,6,4,5,Average
+238,38,Other,PhD,Complex,6,34.91,8,6,6,Average
+239,30,Other,Bachelor,Simple,6,13.97,4,6,1,Average
+239,30,Other,Bachelor,Medium,6,41.34,6,7,3,Good
+239,30,Other,Bachelor,Complex,6,51.01,7,4,8,Poor
+240,56,Other,Master,Simple,6,24.79,2,9,4,Average
+240,56,Other,Master,Medium,6,28.19,5,6,4,Average
+240,56,Other,Master,Complex,6,47.61,9,4,8,Poor
+241,51,Female,High School,Simple,6,16.33,3,6,2,Average
+241,51,Female,High School,Medium,6,37.38,6,7,2,Good
+241,51,Female,High School,Complex,6,33.35,7,3,7,Poor
+242,23,Female,Master,Simple,6,19.37,2,8,3,Good
+242,23,Female,Master,Medium,6,18.63,5,5,5,Average
+242,23,Female,Master,Complex,6,40.29,7,4,4,Average
+243,41,Male,PhD,Simple,6,25.41,2,8,2,Good
+243,41,Male,PhD,Medium,6,16.9,4,6,2,Average
+243,41,Male,PhD,Complex,6,39.45,8,5,8,Poor
+244,52,Other,Master,Simple,6,16.43,4,6,4,Average
+244,52,Other,Master,Medium,6,23.64,4,4,5,Average
+244,52,Other,Master,Complex,6,51.34,9,4,6,Average
+245,22,Female,PhD,Simple,6,26.67,4,8,4,Average
+245,22,Female,PhD,Medium,6,26.35,5,8,3,Good
+245,22,Female,PhD,Complex,6,49.52,7,6,7,Poor
+246,19,Female,Bachelor,Simple,6,20.51,2,9,3,Good
+246,19,Female,Bachelor,Medium,6,31.67,6,6,2,Average
+246,19,Female,Bachelor,Complex,6,45.13,9,2,8,Poor
+247,18,Other,PhD,Simple,6,15.9,4,7,3,Good
+247,18,Other,PhD,Medium,6,26.02,6,4,3,Average
+247,18,Other,PhD,Complex,6,38.37,7,4,6,Average
+248,25,Other,Bachelor,Simple,6,11.28,4,7,4,Average
+248,25,Other,Bachelor,Medium,6,37.08,4,8,4,Average
+248,25,Other,Bachelor,Complex,6,46.72,8,3,4,Poor
+249,51,Other,High School,Simple,6,18.3,3,7,2,Good
+249,51,Other,High School,Medium,6,31.56,4,7,3,Good
+249,51,Other,High School,Complex,6,48.73,7,4,8,Poor
+250,56,Female,Master,Simple,6,11.85,2,8,1,Good
+250,56,Female,Master,Medium,6,14.66,4,8,4,Average
+250,56,Female,Master,Complex,6,42.58,6,4,4,Average
+251,42,Male,Bachelor,Simple,6,1.0,3,9,4,Average
+251,42,Male,Bachelor,Medium,6,26.29,5,7,5,Average
+251,42,Male,Bachelor,Complex,6,28.95,9,5,8,Poor
+252,41,Other,Master,Simple,6,18.91,4,7,2,Good
+252,41,Other,Master,Medium,6,16.91,6,5,5,Average
+252,41,Other,Master,Complex,6,40.65,8,3,5,Poor
+253,51,Male,Bachelor,Simple,6,10.18,2,8,1,Good
+253,51,Male,Bachelor,Medium,6,31.55,6,4,3,Average
+253,51,Male,Bachelor,Complex,6,47.07,7,2,5,Poor
+254,25,Male,High School,Simple,6,19.65,2,7,1,Good
+254,25,Male,High School,Medium,6,26.29,5,7,5,Average
+254,25,Male,High School,Complex,6,29.47,9,3,6,Poor
+255,30,Male,Bachelor,Simple,6,5.6,4,6,1,Average
+255,30,Male,Bachelor,Medium,6,16.68,5,5,2,Average
+255,30,Male,Bachelor,Complex,6,55.69,9,3,8,Poor
+256,38,Female,High School,Simple,6,8.36,4,6,1,Average
+256,38,Female,High School,Medium,6,25.62,5,4,2,Average
+256,38,Female,High School,Complex,6,41.97,9,4,6,Average
+257,29,Female,PhD,Simple,6,2.87,2,8,3,Good
+257,29,Female,PhD,Medium,6,24.79,5,6,5,Average
+257,29,Female,PhD,Complex,6,42.2,9,3,4,Poor
+258,26,Other,Bachelor,Simple,6,8.37,3,8,2,Good
+258,26,Other,Bachelor,Medium,6,23.09,4,8,2,Good
+258,26,Other,Bachelor,Complex,6,43.65,7,2,7,Poor
+259,35,Other,PhD,Simple,6,15.69,3,7,1,Good
+259,35,Other,PhD,Medium,6,22.62,4,7,4,Average
+259,35,Other,PhD,Complex,6,34.56,7,3,8,Poor
+260,61,Female,PhD,Simple,6,14.19,4,6,2,Average
+260,61,Female,PhD,Medium,6,23.4,4,6,4,Average
+260,61,Female,PhD,Complex,6,30.06,7,2,7,Poor
+261,41,Male,Bachelor,Simple,6,18.09,3,9,2,Good
+261,41,Male,Bachelor,Medium,6,27.57,5,4,5,Average
+261,41,Male,Bachelor,Complex,6,23.04,6,5,5,Average
+262,29,Other,High School,Simple,6,13.36,4,7,1,Good
+262,29,Other,High School,Medium,6,23.66,4,5,2,Average
+262,29,Other,High School,Complex,6,33.08,7,6,4,Average
+263,50,Male,PhD,Simple,6,10.77,2,7,4,Average
+263,50,Male,PhD,Medium,6,30.12,6,8,5,Average
+263,50,Male,PhD,Complex,6,50.28,8,2,6,Poor
+264,25,Male,Bachelor,Simple,6,15.66,2,8,1,Good
+264,25,Male,Bachelor,Medium,6,18.46,6,7,5,Average
+264,25,Male,Bachelor,Complex,6,33.34,8,6,4,Average
+265,46,Other,PhD,Simple,6,14.48,4,9,3,Good
+265,46,Other,PhD,Medium,6,13.5,5,7,3,Good
+265,46,Other,PhD,Complex,6,61.26,8,5,4,Average
+266,34,Male,Bachelor,Simple,6,17.16,4,7,4,Average
+266,34,Male,Bachelor,Medium,6,30.83,4,5,4,Average
+266,34,Male,Bachelor,Complex,6,42.52,6,4,6,Average
+267,30,Male,PhD,Simple,6,17.49,4,8,4,Average
+267,30,Male,PhD,Medium,6,32.98,6,6,2,Average
+267,30,Male,PhD,Complex,6,46.39,9,5,4,Average
+268,64,Male,PhD,Simple,6,13.82,4,6,2,Average
+268,64,Male,PhD,Medium,6,17.38,5,6,3,Average
+268,64,Male,PhD,Complex,6,38.44,8,6,5,Average
+269,38,Other,Master,Simple,6,15.54,3,7,2,Good
+269,38,Other,Master,Medium,6,27.88,5,5,3,Average
+269,38,Other,Master,Complex,6,34.36,7,6,7,Poor
+270,62,Female,PhD,Simple,6,14.58,4,9,1,Good
+270,62,Female,PhD,Medium,6,8.37,5,4,5,Average
+270,62,Female,PhD,Complex,6,45.98,9,4,7,Poor
+271,65,Other,PhD,Simple,6,17.73,3,6,4,Average
+271,65,Other,PhD,Medium,6,24.21,6,8,2,Good
+271,65,Other,PhD,Complex,6,31.78,6,4,6,Average
+272,33,Male,PhD,Simple,6,21.58,3,7,3,Good
+272,33,Male,PhD,Medium,6,32.35,5,7,4,Average
+272,33,Male,PhD,Complex,6,36.82,7,2,6,Poor
+273,56,Female,Master,Simple,6,17.81,2,6,2,Average
+273,56,Female,Master,Medium,6,27.92,4,7,5,Average
+273,56,Female,Master,Complex,6,53.67,6,3,7,Poor
+274,57,Male,Master,Simple,6,16.17,3,8,4,Average
+274,57,Male,Master,Medium,6,20.75,6,4,2,Average
+274,57,Male,Master,Complex,6,47.61,8,5,8,Poor
+275,62,Other,PhD,Simple,6,13.21,4,8,2,Good
+275,62,Other,PhD,Medium,6,20.47,6,4,5,Average
+275,62,Other,PhD,Complex,6,10.98,8,5,7,Poor
+276,47,Other,Bachelor,Simple,6,25.0,4,8,1,Good
+276,47,Other,Bachelor,Medium,6,13.07,4,5,2,Average
+276,47,Other,Bachelor,Complex,6,35.77,9,6,7,Poor
+277,44,Female,PhD,Simple,6,20.63,2,7,2,Good
+277,44,Female,PhD,Medium,6,23.08,4,7,5,Average
+277,44,Female,PhD,Complex,6,31.96,6,2,5,Poor
+278,62,Male,Master,Simple,6,18.73,2,6,4,Average
+278,62,Male,Master,Medium,6,14.22,6,8,4,Average
+278,62,Male,Master,Complex,6,59.83,9,3,6,Poor
+279,36,Male,Master,Simple,6,13.91,4,8,2,Good
+279,36,Male,Master,Medium,6,17.23,4,8,3,Good
+279,36,Male,Master,Complex,6,38.72,8,3,7,Poor
+280,62,Female,Master,Simple,6,22.56,2,9,1,Good
+280,62,Female,Master,Medium,6,30.22,5,7,3,Good
+280,62,Female,Master,Complex,6,23.75,6,4,7,Poor
+281,32,Other,High School,Simple,6,14.46,4,9,3,Good
+281,32,Other,High School,Medium,6,32.24,6,8,5,Average
+281,32,Other,High School,Complex,6,50.37,7,5,6,Average
+282,51,Male,Bachelor,Simple,6,18.7,2,6,3,Average
+282,51,Male,Bachelor,Medium,6,23.83,4,4,2,Average
+282,51,Male,Bachelor,Complex,6,46.66,6,2,7,Poor
+283,23,Male,PhD,Simple,6,11.34,2,9,3,Good
+283,23,Male,PhD,Medium,6,17.84,6,7,5,Average
+283,23,Male,PhD,Complex,6,51.07,9,2,8,Poor
+284,30,Other,Bachelor,Simple,6,10.46,4,7,2,Good
+284,30,Other,Bachelor,Medium,6,19.02,4,6,4,Average
+284,30,Other,Bachelor,Complex,6,30.76,7,5,8,Poor
+285,38,Other,Bachelor,Simple,6,13.23,4,8,2,Good
+285,38,Other,Bachelor,Medium,6,17.73,5,6,3,Average
+285,38,Other,Bachelor,Complex,6,44.18,8,3,4,Poor
+286,34,Male,PhD,Simple,6,22.01,4,6,3,Average
+286,34,Male,PhD,Medium,6,22.31,4,4,4,Average
+286,34,Male,PhD,Complex,6,42.5,9,2,4,Poor
+287,41,Female,Master,Simple,6,13.23,4,8,2,Good
+287,41,Female,Master,Medium,6,22.35,4,5,4,Average
+287,41,Female,Master,Complex,6,35.82,7,4,4,Average
+288,46,Other,PhD,Simple,6,19.71,2,6,2,Average
+288,46,Other,PhD,Medium,6,28.08,6,8,4,Average
+288,46,Other,PhD,Complex,6,47.79,9,2,4,Poor
+289,20,Female,High School,Simple,6,21.46,3,6,3,Average
+289,20,Female,High School,Medium,6,1.29,6,7,4,Average
+289,20,Female,High School,Complex,6,39.4,9,4,8,Poor
+290,36,Male,PhD,Simple,6,17.27,3,6,1,Average
+290,36,Male,PhD,Medium,6,37.73,5,8,5,Average
+290,36,Male,PhD,Complex,6,40.4,9,4,6,Average
+291,29,Female,High School,Simple,6,17.1,2,9,3,Good
+291,29,Female,High School,Medium,6,22.88,6,5,5,Average
+291,29,Female,High School,Complex,6,40.06,9,4,5,Average
+292,33,Other,PhD,Simple,6,21.76,4,8,3,Good
+292,33,Other,PhD,Medium,6,25.49,5,8,4,Average
+292,33,Other,PhD,Complex,6,33.6,6,4,7,Poor
+293,34,Female,High School,Simple,6,14.44,3,6,2,Average
+293,34,Female,High School,Medium,6,29.92,6,4,3,Average
+293,34,Female,High School,Complex,6,37.54,7,6,6,Average
+294,19,Female,Master,Simple,6,11.93,3,8,3,Good
+294,19,Female,Master,Medium,6,26.12,5,6,5,Average
+294,19,Female,Master,Complex,6,45.02,7,6,7,Poor
+295,46,Female,PhD,Simple,6,17.12,2,6,4,Average
+295,46,Female,PhD,Medium,6,23.82,5,8,3,Good
+295,46,Female,PhD,Complex,6,37.7,6,3,5,Poor
+296,37,Other,Bachelor,Simple,6,10.38,2,6,3,Average
+296,37,Other,Bachelor,Medium,6,19.42,6,5,3,Average
+296,37,Other,Bachelor,Complex,6,40.37,6,4,5,Average
+297,41,Female,Bachelor,Simple,6,16.04,4,8,3,Good
+297,41,Female,Bachelor,Medium,6,25.49,6,8,4,Average
+297,41,Female,Bachelor,Complex,6,39.17,7,5,7,Poor
+298,36,Female,PhD,Simple,6,15.93,4,8,2,Good
+298,36,Female,PhD,Medium,6,33.33,5,4,4,Average
+298,36,Female,PhD,Complex,6,50.14,9,4,7,Poor
+299,19,Female,High School,Simple,6,13.93,3,9,2,Good
+299,19,Female,High School,Medium,6,26.94,5,4,2,Average
+299,19,Female,High School,Complex,6,37.71,9,2,4,Poor
+300,53,Female,Master,Simple,6,14.78,4,6,2,Average
+300,53,Female,Master,Medium,6,32.87,5,4,3,Average
+300,53,Female,Master,Complex,6,36.66,7,4,5,Average
+301,52,Other,PhD,Simple,6,16.75,2,8,1,Good
+301,52,Other,PhD,Medium,6,27.08,6,5,4,Average
+301,52,Other,PhD,Complex,6,57.5,6,2,5,Poor
+302,37,Other,Bachelor,Simple,6,21.91,2,9,3,Good
+302,37,Other,Bachelor,Medium,6,27.06,6,4,2,Average
+302,37,Other,Bachelor,Complex,6,37.66,7,6,6,Average
+303,65,Female,Bachelor,Simple,6,13.77,3,8,2,Good
+303,65,Female,Bachelor,Medium,6,29.88,5,4,4,Average
+303,65,Female,Bachelor,Complex,6,22.81,8,3,5,Poor
+304,55,Other,High School,Simple,6,21.37,4,8,4,Average
+304,55,Other,High School,Medium,6,25.53,5,6,3,Average
+304,55,Other,High School,Complex,6,47.43,7,2,6,Poor
+305,63,Female,High School,Simple,6,19.89,2,6,1,Average
+305,63,Female,High School,Medium,6,19.73,5,6,2,Average
+305,63,Female,High School,Complex,6,48.53,6,6,4,Average
+306,35,Male,PhD,Simple,6,13.06,4,6,2,Average
+306,35,Male,PhD,Medium,6,15.63,5,5,5,Average
+306,35,Male,PhD,Complex,6,46.93,9,3,7,Poor
+307,60,Male,PhD,Simple,6,12.25,4,7,1,Good
+307,60,Male,PhD,Medium,6,31.02,4,7,3,Good
+307,60,Male,PhD,Complex,6,33.1,7,5,7,Poor
+308,32,Male,High School,Simple,6,15.02,2,8,3,Good
+308,32,Male,High School,Medium,6,37.24,4,8,5,Average
+308,32,Male,High School,Complex,6,29.82,6,6,4,Average
+309,27,Female,PhD,Simple,6,19.04,4,8,4,Average
+309,27,Female,PhD,Medium,6,28.83,4,4,5,Average
+309,27,Female,PhD,Complex,6,38.96,7,2,8,Poor
+310,41,Female,Bachelor,Simple,6,18.9,2,6,3,Average
+310,41,Female,Bachelor,Medium,6,29.31,4,7,3,Good
+310,41,Female,Bachelor,Complex,6,34.35,7,2,5,Poor
+311,56,Female,Master,Simple,6,11.31,2,6,2,Average
+311,56,Female,Master,Medium,6,17.36,6,8,4,Average
+311,56,Female,Master,Complex,6,43.08,6,3,4,Poor
+312,29,Female,PhD,Simple,6,4.22,4,9,3,Good
+312,29,Female,PhD,Medium,6,23.51,4,8,4,Average
+312,29,Female,PhD,Complex,6,39.63,6,6,7,Poor
+313,64,Female,PhD,Simple,6,1.19,4,9,1,Good
+313,64,Female,PhD,Medium,6,22.08,5,8,3,Good
+313,64,Female,PhD,Complex,6,33.24,7,2,4,Poor
+314,60,Female,High School,Simple,6,19.82,3,8,2,Good
+314,60,Female,High School,Medium,6,27.19,6,7,3,Good
+314,60,Female,High School,Complex,6,31.19,6,3,7,Poor
+315,28,Female,High School,Simple,6,8.11,4,7,4,Average
+315,28,Female,High School,Medium,6,21.05,6,8,2,Good
+315,28,Female,High School,Complex,6,24.14,8,4,5,Average
+316,57,Other,High School,Simple,6,5.6,4,7,1,Good
+316,57,Other,High School,Medium,6,20.67,4,4,3,Average
+316,57,Other,High School,Complex,6,29.38,6,6,4,Average
+317,46,Female,Bachelor,Simple,6,16.77,2,8,1,Good
+317,46,Female,Bachelor,Medium,6,24.69,4,5,2,Average
+317,46,Female,Bachelor,Complex,6,50.92,8,6,4,Average
+318,34,Other,High School,Simple,6,18.58,4,6,3,Average
+318,34,Other,High School,Medium,6,43.35,4,6,5,Average
+318,34,Other,High School,Complex,6,28.88,7,5,4,Average
+319,45,Other,High School,Simple,6,20.26,2,6,2,Average
+319,45,Other,High School,Medium,6,30.75,4,6,5,Average
+319,45,Other,High School,Complex,6,50.96,7,6,6,Average
+320,36,Male,Bachelor,Simple,6,11.87,3,6,1,Average
+320,36,Male,Bachelor,Medium,6,22.72,5,4,5,Average
+320,36,Male,Bachelor,Complex,6,39.9,7,4,5,Average
+321,49,Male,High School,Simple,6,14.87,4,6,4,Average
+321,49,Male,High School,Medium,6,20.88,6,7,5,Average
+321,49,Male,High School,Complex,6,33.93,7,6,8,Poor
+322,32,Other,Bachelor,Simple,6,16.06,2,8,2,Good
+322,32,Other,Bachelor,Medium,6,17.45,5,6,4,Average
+322,32,Other,Bachelor,Complex,6,33.11,7,5,6,Average
+323,28,Male,Bachelor,Simple,6,21.45,4,7,3,Good
+323,28,Male,Bachelor,Medium,6,31.78,5,4,2,Average
+323,28,Male,Bachelor,Complex,6,42.69,6,5,4,Average
+324,54,Female,High School,Simple,6,22.57,2,7,3,Good
+324,54,Female,High School,Medium,6,32.88,6,8,4,Average
+324,54,Female,High School,Complex,6,47.73,9,5,8,Poor
+325,24,Other,Bachelor,Simple,6,8.84,3,6,2,Average
+325,24,Other,Bachelor,Medium,6,34.15,4,6,2,Average
+325,24,Other,Bachelor,Complex,6,47.84,6,6,5,Average
+326,29,Female,Master,Simple,6,16.55,3,6,1,Average
+326,29,Female,Master,Medium,6,19.36,6,4,5,Average
+326,29,Female,Master,Complex,6,55.05,6,4,5,Average
+327,47,Female,Bachelor,Simple,6,16.99,4,8,4,Average
+327,47,Female,Bachelor,Medium,6,29.59,4,5,3,Average
+327,47,Female,Bachelor,Complex,6,38.34,8,3,4,Poor
+328,55,Other,High School,Simple,6,9.59,2,8,3,Good
+328,55,Other,High School,Medium,6,26.2,4,8,5,Average
+328,55,Other,High School,Complex,6,45.53,9,6,5,Average
+329,63,Male,Master,Simple,6,17.32,3,7,3,Good
+329,63,Male,Master,Medium,6,15.43,4,7,5,Average
+329,63,Male,Master,Complex,6,33.03,9,3,8,Poor
+330,37,Male,High School,Simple,6,17.91,2,9,4,Average
+330,37,Male,High School,Medium,6,27.45,5,5,5,Average
+330,37,Male,High School,Complex,6,24.35,7,2,6,Poor
+331,57,Female,PhD,Simple,6,12.8,2,7,2,Good
+331,57,Female,PhD,Medium,6,36.43,5,6,2,Average
+331,57,Female,PhD,Complex,6,32.93,9,4,7,Poor
+332,29,Female,Bachelor,Simple,6,15.63,4,6,3,Average
+332,29,Female,Bachelor,Medium,6,29.22,6,8,4,Average
+332,29,Female,Bachelor,Complex,6,50.42,8,6,8,Poor
+333,52,Male,Bachelor,Simple,6,14.8,4,7,3,Good
+333,52,Male,Bachelor,Medium,6,24.06,5,7,5,Average
+333,52,Male,Bachelor,Complex,6,29.68,8,4,5,Average
+334,52,Male,Master,Simple,6,20.57,4,9,1,Good
+334,52,Male,Master,Medium,6,26.75,4,7,2,Good
+334,52,Male,Master,Complex,6,50.45,6,4,6,Average
+335,19,Other,High School,Simple,6,10.91,4,8,4,Average
+335,19,Other,High School,Medium,6,35.73,6,5,4,Average
+335,19,Other,High School,Complex,6,55.17,6,4,8,Poor
+336,29,Other,High School,Simple,6,21.76,3,9,2,Good
+336,29,Other,High School,Medium,6,29.38,4,6,5,Average
+336,29,Other,High School,Complex,6,48.85,8,6,5,Average
+337,44,Female,PhD,Simple,6,9.71,4,8,1,Good
+337,44,Female,PhD,Medium,6,35.37,4,4,4,Average
+337,44,Female,PhD,Complex,6,50.11,7,4,4,Average
+338,24,Other,Master,Simple,6,21.71,2,8,4,Average
+338,24,Other,Master,Medium,6,22.22,6,4,2,Average
+338,24,Other,Master,Complex,6,58.2,7,3,7,Poor
+339,65,Male,Master,Simple,6,5.03,3,7,3,Good
+339,65,Male,Master,Medium,6,10.65,5,8,2,Good
+339,65,Male,Master,Complex,6,51.84,7,5,5,Average
+340,28,Male,PhD,Simple,6,16.5,4,7,4,Average
+340,28,Male,PhD,Medium,6,24.48,5,4,5,Average
+340,28,Male,PhD,Complex,6,35.48,9,5,6,Average
+341,24,Female,High School,Simple,6,17.21,4,6,3,Average
+341,24,Female,High School,Medium,6,25.01,6,4,4,Average
+341,24,Female,High School,Complex,6,33.97,6,2,8,Poor
+342,47,Female,Master,Simple,6,11.82,3,9,4,Average
+342,47,Female,Master,Medium,6,27.4,5,8,4,Average
+342,47,Female,Master,Complex,6,43.08,7,4,5,Average
+343,24,Other,PhD,Simple,6,11.7,3,7,4,Average
+343,24,Other,PhD,Medium,6,20.07,5,7,4,Average
+343,24,Other,PhD,Complex,6,22.98,9,4,8,Poor
+344,47,Other,Bachelor,Simple,6,12.69,3,8,4,Average
+344,47,Other,Bachelor,Medium,6,34.58,4,5,3,Average
+344,47,Other,Bachelor,Complex,6,28.61,9,3,5,Poor
+345,48,Female,Bachelor,Simple,6,17.87,3,6,4,Average
+345,48,Female,Bachelor,Medium,6,12.5,5,5,5,Average
+345,48,Female,Bachelor,Complex,6,29.2,9,5,4,Average
+346,18,Other,Master,Simple,6,9.37,4,8,3,Good
+346,18,Other,Master,Medium,6,35.82,4,5,2,Average
+346,18,Other,Master,Complex,6,32.51,7,6,4,Average
+347,65,Other,PhD,Simple,6,16.09,2,8,2,Good
+347,65,Other,PhD,Medium,6,25.15,6,8,2,Good
+347,65,Other,PhD,Complex,6,40.17,6,2,7,Poor
+348,61,Female,PhD,Simple,6,13.24,3,8,4,Average
+348,61,Female,PhD,Medium,6,31.66,5,7,4,Average
+348,61,Female,PhD,Complex,6,36.33,6,6,8,Poor
+349,34,Other,Master,Simple,6,15.21,2,6,4,Average
+349,34,Other,Master,Medium,6,34.41,5,7,5,Average
+349,34,Other,Master,Complex,6,19.03,9,4,7,Poor
+350,47,Female,Bachelor,Simple,6,19.32,4,9,3,Good
+350,47,Female,Bachelor,Medium,6,28.09,5,8,3,Good
+350,47,Female,Bachelor,Complex,6,35.7,9,2,6,Poor
+351,27,Male,Master,Simple,6,11.41,2,8,3,Good
+351,27,Male,Master,Medium,6,23.39,4,8,3,Good
+351,27,Male,Master,Complex,6,41.35,9,5,8,Poor
+352,62,Female,Bachelor,Simple,6,6.66,4,7,2,Good
+352,62,Female,Bachelor,Medium,6,23.97,4,7,2,Good
+352,62,Female,Bachelor,Complex,6,34.67,6,6,4,Average
+353,41,Female,PhD,Simple,6,19.15,2,8,2,Good
+353,41,Female,PhD,Medium,6,24.81,6,5,4,Average
+353,41,Female,PhD,Complex,6,39.3,6,5,4,Average
+354,33,Female,High School,Simple,6,19.45,4,7,2,Good
+354,33,Female,High School,Medium,6,38.57,6,8,5,Average
+354,33,Female,High School,Complex,6,25.99,7,6,5,Average
+355,30,Female,Master,Simple,6,20.65,4,6,4,Average
+355,30,Female,Master,Medium,6,30.25,6,7,4,Average
+355,30,Female,Master,Complex,6,40.21,8,6,7,Poor
+356,47,Male,PhD,Simple,6,19.43,2,6,4,Average
+356,47,Male,PhD,Medium,6,29.54,4,7,2,Good
+356,47,Male,PhD,Complex,6,47.57,6,2,4,Poor
+357,25,Male,Master,Simple,6,10.93,2,8,4,Average
+357,25,Male,Master,Medium,6,21.18,5,6,4,Average
+357,25,Male,Master,Complex,6,59.12,6,3,8,Poor
+358,38,Female,Master,Simple,6,19.32,2,9,3,Good
+358,38,Female,Master,Medium,6,23.61,5,8,2,Good
+358,38,Female,Master,Complex,6,46.33,9,4,4,Average
+359,52,Female,Master,Simple,6,6.63,2,8,2,Good
+359,52,Female,Master,Medium,6,20.4,6,6,4,Average
+359,52,Female,Master,Complex,6,46.95,8,5,5,Average
+360,55,Other,High School,Simple,6,7.69,4,6,3,Average
+360,55,Other,High School,Medium,6,9.64,4,6,5,Average
+360,55,Other,High School,Complex,6,40.93,7,6,7,Poor
+361,49,Other,Bachelor,Simple,6,4.7,3,8,2,Good
+361,49,Other,Bachelor,Medium,6,29.05,6,6,5,Average
+361,49,Other,Bachelor,Complex,6,31.8,9,2,7,Poor
+362,25,Male,Bachelor,Simple,6,8.74,3,9,2,Good
+362,25,Male,Bachelor,Medium,6,27.27,6,8,2,Good
+362,25,Male,Bachelor,Complex,6,28.52,8,3,6,Poor
+363,41,Other,PhD,Simple,6,25.38,3,9,4,Average
+363,41,Other,PhD,Medium,6,22.39,5,6,4,Average
+363,41,Other,PhD,Complex,6,33.51,8,2,6,Poor
+364,29,Female,Bachelor,Simple,6,13.27,2,6,4,Average
+364,29,Female,Bachelor,Medium,6,13.05,6,5,5,Average
+364,29,Female,Bachelor,Complex,6,24.46,9,5,4,Average
+365,42,Other,PhD,Simple,6,15.74,2,6,4,Average
+365,42,Other,PhD,Medium,6,25.54,4,7,3,Good
+365,42,Other,PhD,Complex,6,39.43,9,6,5,Average
+366,63,Other,PhD,Simple,6,8.49,4,7,1,Good
+366,63,Other,PhD,Medium,6,31.38,6,7,4,Average
+366,63,Other,PhD,Complex,6,41.06,7,6,7,Poor
+367,52,Female,High School,Simple,6,24.55,4,9,2,Good
+367,52,Female,High School,Medium,6,30.67,5,4,5,Average
+367,52,Female,High School,Complex,6,38.77,6,6,8,Poor
+368,62,Male,Master,Simple,6,15.47,3,6,1,Average
+368,62,Male,Master,Medium,6,26.04,4,7,4,Average
+368,62,Male,Master,Complex,6,33.21,7,4,7,Poor
+369,61,Male,PhD,Simple,6,6.28,2,6,2,Average
+369,61,Male,PhD,Medium,6,29.08,5,4,4,Average
+369,61,Male,PhD,Complex,6,39.34,8,3,7,Poor
+370,42,Other,Bachelor,Simple,6,17.25,2,8,2,Good
+370,42,Other,Bachelor,Medium,6,28.9,4,4,4,Average
+370,42,Other,Bachelor,Complex,6,26.65,7,3,8,Poor
+371,32,Female,Master,Simple,6,14.53,2,9,4,Average
+371,32,Female,Master,Medium,6,34.28,5,4,2,Average
+371,32,Female,Master,Complex,6,28.16,7,2,8,Poor
+372,23,Female,Master,Simple,6,15.99,4,7,2,Good
+372,23,Female,Master,Medium,6,33.4,5,8,4,Average
+372,23,Female,Master,Complex,6,35.37,6,2,8,Poor
+373,52,Female,Master,Simple,6,14.29,3,7,3,Good
+373,52,Female,Master,Medium,6,19.69,4,5,5,Average
+373,52,Female,Master,Complex,6,47.65,7,3,7,Poor
+374,34,Female,PhD,Simple,6,8.79,2,7,2,Good
+374,34,Female,PhD,Medium,6,24.06,6,6,4,Average
+374,34,Female,PhD,Complex,6,32.93,8,5,6,Average
+375,34,Female,Master,Simple,6,8.88,4,9,2,Good
+375,34,Female,Master,Medium,6,29.73,4,8,2,Good
+375,34,Female,Master,Complex,6,55.96,7,3,8,Poor
+376,65,Female,Bachelor,Simple,6,13.22,4,8,2,Good
+376,65,Female,Bachelor,Medium,6,22.36,5,7,2,Good
+376,65,Female,Bachelor,Complex,6,36.5,7,5,8,Poor
+377,19,Male,Bachelor,Simple,6,7.43,4,8,3,Good
+377,19,Male,Bachelor,Medium,6,27.25,4,8,3,Good
+377,19,Male,Bachelor,Complex,6,42.25,6,4,5,Average
+378,55,Female,High School,Simple,6,18.46,3,7,1,Good
+378,55,Female,High School,Medium,6,21.58,5,6,3,Average
+378,55,Female,High School,Complex,6,53.49,6,6,5,Average
+379,63,Other,Bachelor,Simple,6,16.27,3,9,2,Good
+379,63,Other,Bachelor,Medium,6,22.4,5,5,5,Average
+379,63,Other,Bachelor,Complex,6,44.99,7,4,6,Average
+380,59,Male,Bachelor,Simple,6,13.6,4,8,1,Good
+380,59,Male,Bachelor,Medium,6,17.54,4,4,4,Average
+380,59,Male,Bachelor,Complex,6,51.93,6,4,4,Average
+381,37,Other,PhD,Simple,6,22.44,2,8,2,Good
+381,37,Other,PhD,Medium,6,14.72,6,4,5,Average
+381,37,Other,PhD,Complex,6,38.22,7,2,6,Poor
+382,58,Female,Master,Simple,6,8.18,2,8,2,Good
+382,58,Female,Master,Medium,6,15.95,6,7,5,Average
+382,58,Female,Master,Complex,6,45.72,8,2,7,Poor
+383,51,Male,Bachelor,Simple,6,13.5,2,7,2,Good
+383,51,Male,Bachelor,Medium,6,16.53,5,4,3,Average
+383,51,Male,Bachelor,Complex,6,31.6,6,2,6,Poor
+384,65,Female,Bachelor,Simple,6,13.88,3,7,3,Good
+384,65,Female,Bachelor,Medium,6,29.45,5,8,4,Average
+384,65,Female,Bachelor,Complex,6,34.89,8,2,5,Poor
+385,29,Female,Bachelor,Simple,6,13.06,4,7,3,Good
+385,29,Female,Bachelor,Medium,6,15.28,4,6,3,Average
+385,29,Female,Bachelor,Complex,6,29.01,7,5,7,Poor
+386,30,Female,High School,Simple,6,10.94,4,7,2,Good
+386,30,Female,High School,Medium,6,25.4,6,7,5,Average
+386,30,Female,High School,Complex,6,32.84,6,4,4,Average
+387,34,Other,Bachelor,Simple,6,18.18,2,7,4,Average
+387,34,Other,Bachelor,Medium,6,21.16,5,8,4,Average
+387,34,Other,Bachelor,Complex,6,46.77,6,5,7,Poor
+388,54,Female,High School,Simple,6,11.12,2,8,3,Good
+388,54,Female,High School,Medium,6,29.71,6,8,3,Good
+388,54,Female,High School,Complex,6,16.3,6,6,6,Average
+389,46,Male,Master,Simple,6,12.7,3,7,4,Average
+389,46,Male,Master,Medium,6,20.14,5,8,3,Good
+389,46,Male,Master,Complex,6,39.03,8,3,8,Poor
+390,60,Other,Bachelor,Simple,6,12.92,3,7,1,Good
+390,60,Other,Bachelor,Medium,6,15.94,6,7,2,Good
+390,60,Other,Bachelor,Complex,6,27.66,8,4,6,Average
+391,55,Other,PhD,Simple,6,18.81,2,9,1,Good
+391,55,Other,PhD,Medium,6,16.98,5,5,2,Average
+391,55,Other,PhD,Complex,6,44.82,6,3,7,Poor
+392,46,Male,High School,Simple,6,11.52,3,6,2,Average
+392,46,Male,High School,Medium,6,26.72,6,5,3,Average
+392,46,Male,High School,Complex,6,10.47,8,4,4,Average
+393,38,Other,Master,Simple,6,12.95,2,9,2,Good
+393,38,Other,Master,Medium,6,29.99,6,7,3,Good
+393,38,Other,Master,Complex,6,21.64,6,6,6,Average
+394,41,Female,PhD,Simple,6,11.08,2,8,3,Good
+394,41,Female,PhD,Medium,6,26.52,6,5,5,Average
+394,41,Female,PhD,Complex,6,31.56,8,2,4,Poor
+395,28,Female,Master,Simple,6,18.32,3,7,4,Average
+395,28,Female,Master,Medium,6,19.93,6,5,4,Average
+395,28,Female,Master,Complex,6,35.47,7,4,4,Average
+396,19,Male,High School,Simple,6,19.47,2,9,2,Good
+396,19,Male,High School,Medium,6,12.96,5,7,2,Good
+396,19,Male,High School,Complex,6,58.28,9,6,5,Average
+397,59,Female,PhD,Simple,6,18.09,2,7,2,Good
+397,59,Female,PhD,Medium,6,15.79,6,8,3,Good
+397,59,Female,PhD,Complex,6,42.84,9,3,6,Poor
+398,44,Male,High School,Simple,6,10.06,2,9,2,Good
+398,44,Male,High School,Medium,6,27.57,4,7,3,Good
+398,44,Male,High School,Complex,6,27.65,6,3,4,Poor
+399,51,Female,PhD,Simple,6,14.69,3,6,3,Average
+399,51,Female,PhD,Medium,6,33.6,5,6,3,Average
+399,51,Female,PhD,Complex,6,42.19,6,5,8,Poor
+400,45,Male,High School,Simple,6,15.39,2,8,4,Average
+400,45,Male,High School,Medium,6,30.02,4,5,5,Average
+400,45,Male,High School,Complex,6,18.93,7,3,5,Poor
+401,29,Male,Bachelor,Simple,6,15.67,2,9,2,Good
+401,29,Male,Bachelor,Medium,6,24.07,5,8,5,Average
+401,29,Male,Bachelor,Complex,6,24.08,6,5,7,Poor
+402,35,Other,Master,Simple,6,19.37,3,8,3,Good
+402,35,Other,Master,Medium,6,29.57,6,7,5,Average
+402,35,Other,Master,Complex,6,28.62,6,6,8,Poor
+403,24,Male,Bachelor,Simple,6,16.01,2,6,2,Average
+403,24,Male,Bachelor,Medium,6,23.31,6,7,3,Good
+403,24,Male,Bachelor,Complex,6,46.83,8,4,6,Average
+404,50,Male,PhD,Simple,6,13.43,2,8,3,Good
+404,50,Male,PhD,Medium,6,15.92,5,8,4,Average
+404,50,Male,PhD,Complex,6,32.42,9,4,8,Poor
+405,26,Other,Bachelor,Simple,6,21.66,4,7,2,Good
+405,26,Other,Bachelor,Medium,6,26.59,4,8,5,Average
+405,26,Other,Bachelor,Complex,6,34.6,6,5,7,Poor
+406,40,Other,PhD,Simple,6,8.27,4,8,3,Good
+406,40,Other,PhD,Medium,6,24.54,5,5,5,Average
+406,40,Other,PhD,Complex,6,43.28,8,5,6,Average
+407,18,Female,PhD,Simple,6,13.69,2,6,2,Average
+407,18,Female,PhD,Medium,6,11.03,4,7,3,Good
+407,18,Female,PhD,Complex,6,56.58,6,4,7,Poor
+408,52,Female,PhD,Simple,6,18.93,2,8,4,Average
+408,52,Female,PhD,Medium,6,32.71,4,7,4,Average
+408,52,Female,PhD,Complex,6,50.61,7,4,6,Average
+409,62,Female,High School,Simple,6,18.4,2,7,4,Average
+409,62,Female,High School,Medium,6,32.68,6,8,2,Good
+409,62,Female,High School,Complex,6,36.39,9,3,5,Poor
+410,65,Other,High School,Simple,6,17.08,4,7,3,Good
+410,65,Other,High School,Medium,6,32.85,6,6,5,Average
+410,65,Other,High School,Complex,6,63.2,8,4,5,Average
+411,59,Male,Bachelor,Simple,6,24.85,3,9,2,Good
+411,59,Male,Bachelor,Medium,6,24.86,4,5,5,Average
+411,59,Male,Bachelor,Complex,6,55.9,9,4,8,Poor
+412,21,Female,High School,Simple,6,17.87,2,9,2,Good
+412,21,Female,High School,Medium,6,20.1,6,8,2,Good
+412,21,Female,High School,Complex,6,51.62,7,6,4,Average
+413,30,Male,Bachelor,Simple,6,18.83,2,9,2,Good
+413,30,Male,Bachelor,Medium,6,32.07,6,4,4,Average
+413,30,Male,Bachelor,Complex,6,17.44,7,2,8,Poor
+414,40,Male,High School,Simple,6,9.11,3,9,3,Good
+414,40,Male,High School,Medium,6,24.38,5,8,4,Average
+414,40,Male,High School,Complex,6,43.38,6,5,6,Average
+415,47,Male,High School,Simple,6,10.11,3,7,4,Average
+415,47,Male,High School,Medium,6,24.99,4,8,4,Average
+415,47,Male,High School,Complex,6,43.08,7,3,6,Poor
+416,64,Female,PhD,Simple,6,14.85,2,9,2,Good
+416,64,Female,PhD,Medium,6,21.32,6,4,3,Average
+416,64,Female,PhD,Complex,6,41.78,8,2,5,Poor
+417,58,Other,PhD,Simple,6,12.15,2,7,2,Good
+417,58,Other,PhD,Medium,6,19.64,6,7,2,Good
+417,58,Other,PhD,Complex,6,37.2,7,5,4,Average
+418,21,Female,High School,Simple,6,10.18,4,7,2,Good
+418,21,Female,High School,Medium,6,19.61,4,6,5,Average
+418,21,Female,High School,Complex,6,37.39,7,5,6,Average
+419,60,Male,Master,Simple,6,19.31,3,9,4,Average
+419,60,Male,Master,Medium,6,25.97,4,6,4,Average
+419,60,Male,Master,Complex,6,36.76,6,2,5,Poor
+420,65,Other,Master,Simple,6,19.67,4,6,4,Average
+420,65,Other,Master,Medium,6,20.63,5,7,5,Average
+420,65,Other,Master,Complex,6,29.91,7,5,5,Average
+421,43,Other,PhD,Simple,6,15.98,2,8,2,Good
+421,43,Other,PhD,Medium,6,24.31,5,5,2,Average
+421,43,Other,PhD,Complex,6,55.42,9,4,8,Poor
+422,35,Male,Bachelor,Simple,6,7.1,4,7,1,Good
+422,35,Male,Bachelor,Medium,6,27.79,5,6,4,Average
+422,35,Male,Bachelor,Complex,6,35.11,6,6,7,Poor
+423,46,Female,Bachelor,Simple,6,11.63,4,7,4,Average
+423,46,Female,Bachelor,Medium,6,22.18,6,8,5,Average
+423,46,Female,Bachelor,Complex,6,41.32,8,3,7,Poor
+424,55,Female,High School,Simple,6,12.05,2,7,1,Good
+424,55,Female,High School,Medium,6,22.02,6,7,4,Average
+424,55,Female,High School,Complex,6,44.71,7,5,4,Average
+425,51,Other,Bachelor,Simple,6,16.26,4,7,2,Good
+425,51,Other,Bachelor,Medium,6,34.69,4,4,2,Average
+425,51,Other,Bachelor,Complex,6,45.22,7,5,7,Poor
+426,26,Other,Bachelor,Simple,6,14.51,3,6,2,Average
+426,26,Other,Bachelor,Medium,6,26.02,5,8,5,Average
+426,26,Other,Bachelor,Complex,6,33.86,8,3,6,Poor
+427,56,Female,Bachelor,Simple,6,22.16,4,8,3,Good
+427,56,Female,Bachelor,Medium,6,14.9,6,5,5,Average
+427,56,Female,Bachelor,Complex,6,45.55,9,6,8,Poor
+428,36,Male,High School,Simple,6,7.76,4,9,4,Average
+428,36,Male,High School,Medium,6,23.62,6,8,4,Average
+428,36,Male,High School,Complex,6,41.89,6,6,6,Average
+429,65,Male,Master,Simple,6,11.76,2,6,3,Average
+429,65,Male,Master,Medium,6,19.41,6,5,2,Average
+429,65,Male,Master,Complex,6,40.57,9,2,5,Poor
+430,60,Other,Master,Simple,6,19.62,3,9,4,Average
+430,60,Other,Master,Medium,6,29.99,4,4,5,Average
+430,60,Other,Master,Complex,6,39.21,7,2,7,Poor
+431,40,Female,High School,Simple,6,19.89,3,8,4,Average
+431,40,Female,High School,Medium,6,10.26,6,4,5,Average
+431,40,Female,High School,Complex,6,28.86,8,2,7,Poor
+432,45,Female,Master,Simple,6,23.85,2,9,2,Good
+432,45,Female,Master,Medium,6,25.37,6,8,2,Good
+432,45,Female,Master,Complex,6,44.91,6,2,7,Poor
+433,35,Other,PhD,Simple,6,18.1,4,6,2,Average
+433,35,Other,PhD,Medium,6,32.28,6,7,4,Average
+433,35,Other,PhD,Complex,6,60.1,8,4,6,Average
+434,52,Female,PhD,Simple,6,10.05,4,6,2,Average
+434,52,Female,PhD,Medium,6,25.32,4,4,4,Average
+434,52,Female,PhD,Complex,6,40.51,8,4,5,Average
+435,29,Female,High School,Simple,6,12.23,4,6,3,Average
+435,29,Female,High School,Medium,6,36.19,6,7,2,Good
+435,29,Female,High School,Complex,6,43.06,9,6,7,Poor
+436,39,Other,High School,Simple,6,18.92,4,9,1,Good
+436,39,Other,High School,Medium,6,20.93,6,6,4,Average
+436,39,Other,High School,Complex,6,28.26,8,6,6,Average
+437,35,Female,Master,Simple,6,9.1,2,8,3,Good
+437,35,Female,Master,Medium,6,26.84,6,8,5,Average
+437,35,Female,Master,Complex,6,46.79,9,4,5,Average
+438,24,Other,Master,Simple,6,10.94,3,9,4,Average
+438,24,Other,Master,Medium,6,17.7,4,8,2,Good
+438,24,Other,Master,Complex,6,52.26,8,6,5,Average
+439,57,Male,High School,Simple,6,13.69,4,9,1,Good
+439,57,Male,High School,Medium,6,42.09,5,8,5,Average
+439,57,Male,High School,Complex,6,43.47,6,3,5,Poor
+440,58,Male,High School,Simple,6,27.56,3,8,1,Good
+440,58,Male,High School,Medium,6,22.8,6,5,5,Average
+440,58,Male,High School,Complex,6,38.02,8,6,6,Average
+441,50,Other,Master,Simple,6,16.16,2,9,1,Good
+441,50,Other,Master,Medium,6,19.7,4,6,3,Average
+441,50,Other,Master,Complex,6,26.56,6,5,6,Average
+442,51,Other,High School,Simple,6,19.25,2,9,2,Good
+442,51,Other,High School,Medium,6,33.24,4,6,2,Average
+442,51,Other,High School,Complex,6,44.85,6,3,6,Poor
+443,50,Male,PhD,Simple,6,10.84,4,7,2,Good
+443,50,Male,PhD,Medium,6,20.53,4,8,2,Good
+443,50,Male,PhD,Complex,6,24.44,9,2,6,Poor
+444,56,Other,PhD,Simple,6,24.31,4,7,2,Good
+444,56,Other,PhD,Medium,6,14.58,4,4,4,Average
+444,56,Other,PhD,Complex,6,40.94,8,5,4,Average
+445,62,Female,Bachelor,Simple,6,14.46,4,7,3,Good
+445,62,Female,Bachelor,Medium,6,32.0,5,8,2,Good
+445,62,Female,Bachelor,Complex,6,36.02,8,2,8,Poor
+446,28,Other,PhD,Simple,6,13.42,4,6,1,Average
+446,28,Other,PhD,Medium,6,12.31,4,7,4,Average
+446,28,Other,PhD,Complex,6,29.41,7,5,8,Poor
+447,40,Other,PhD,Simple,6,7.3,2,8,3,Good
+447,40,Other,PhD,Medium,6,15.24,4,5,5,Average
+447,40,Other,PhD,Complex,6,30.14,7,2,8,Poor
+448,56,Male,PhD,Simple,6,13.58,3,8,2,Good
+448,56,Male,PhD,Medium,6,18.04,6,7,5,Average
+448,56,Male,PhD,Complex,6,36.25,6,4,6,Average
+449,36,Female,PhD,Simple,6,19.11,2,9,3,Good
+449,36,Female,PhD,Medium,6,25.32,4,7,4,Average
+449,36,Female,PhD,Complex,6,34.5,8,5,6,Average
+450,42,Female,Master,Simple,6,17.04,4,7,4,Average
+450,42,Female,Master,Medium,6,22.48,4,8,2,Good
+450,42,Female,Master,Complex,6,65.04,8,4,5,Average
+451,51,Other,High School,Simple,6,17.18,3,8,2,Good
+451,51,Other,High School,Medium,6,23.32,4,4,4,Average
+451,51,Other,High School,Complex,6,62.21,7,4,5,Average
+452,45,Male,Master,Simple,6,15.04,4,8,2,Good
+452,45,Male,Master,Medium,6,24.9,4,6,5,Average
+452,45,Male,Master,Complex,6,38.7,8,5,6,Average
+453,24,Female,PhD,Simple,6,17.01,4,9,4,Average
+453,24,Female,PhD,Medium,6,19.95,5,7,4,Average
+453,24,Female,PhD,Complex,6,39.35,9,4,4,Average
+454,44,Female,PhD,Simple,6,15.36,3,8,4,Average
+454,44,Female,PhD,Medium,6,28.53,5,8,2,Good
+454,44,Female,PhD,Complex,6,35.19,7,5,8,Poor
+455,58,Other,High School,Simple,6,13.85,2,9,4,Average
+455,58,Other,High School,Medium,6,11.45,6,7,4,Average
+455,58,Other,High School,Complex,6,52.18,8,2,7,Poor
+456,41,Female,High School,Simple,6,20.29,4,7,2,Good
+456,41,Female,High School,Medium,6,17.44,6,6,4,Average
+456,41,Female,High School,Complex,6,27.98,7,5,6,Average
+457,64,Female,Master,Simple,6,15.3,3,9,1,Good
+457,64,Female,Master,Medium,6,27.43,4,4,3,Average
+457,64,Female,Master,Complex,6,25.64,6,6,5,Average
+458,35,Female,High School,Simple,6,8.42,3,8,1,Good
+458,35,Female,High School,Medium,6,20.3,6,5,2,Average
+458,35,Female,High School,Complex,6,38.71,6,2,8,Poor
+459,37,Female,High School,Simple,6,22.0,4,6,4,Average
+459,37,Female,High School,Medium,6,22.33,5,5,5,Average
+459,37,Female,High School,Complex,6,28.0,7,3,7,Poor
+460,38,Other,PhD,Simple,6,3.42,4,7,2,Good
+460,38,Other,PhD,Medium,6,30.55,6,4,2,Average
+460,38,Other,PhD,Complex,6,38.78,9,2,8,Poor
+461,59,Female,High School,Simple,6,11.43,3,8,2,Good
+461,59,Female,High School,Medium,6,28.65,4,5,4,Average
+461,59,Female,High School,Complex,6,38.8,9,5,7,Poor
+462,35,Male,Master,Simple,6,18.7,4,8,3,Good
+462,35,Male,Master,Medium,6,35.19,4,7,5,Average
+462,35,Male,Master,Complex,6,48.07,7,3,5,Poor
+463,59,Other,PhD,Simple,6,18.94,3,7,1,Good
+463,59,Other,PhD,Medium,6,15.02,4,8,4,Average
+463,59,Other,PhD,Complex,6,41.03,8,3,6,Poor
+464,47,Other,PhD,Simple,6,25.21,3,7,2,Good
+464,47,Other,PhD,Medium,6,29.53,5,5,2,Average
+464,47,Other,PhD,Complex,6,21.41,9,2,7,Poor
+465,60,Male,Bachelor,Simple,6,16.28,2,8,3,Good
+465,60,Male,Bachelor,Medium,6,12.98,5,6,5,Average
+465,60,Male,Bachelor,Complex,6,34.75,9,4,4,Average
+466,41,Female,Bachelor,Simple,6,20.15,4,8,3,Good
+466,41,Female,Bachelor,Medium,6,20.26,6,8,3,Good
+466,41,Female,Bachelor,Complex,6,38.89,8,5,8,Poor
+467,58,Female,PhD,Simple,6,21.13,3,9,2,Good
+467,58,Female,PhD,Medium,6,25.93,6,5,2,Average
+467,58,Female,PhD,Complex,6,51.26,8,4,6,Average
+468,61,Other,PhD,Simple,6,9.0,3,8,2,Good
+468,61,Other,PhD,Medium,6,28.4,4,8,2,Good
+468,61,Other,PhD,Complex,6,35.32,8,2,6,Poor
+469,38,Male,High School,Simple,6,13.99,2,7,4,Average
+469,38,Male,High School,Medium,6,26.54,5,7,2,Good
+469,38,Male,High School,Complex,6,40.09,6,2,6,Poor
+470,40,Other,Bachelor,Simple,6,21.29,4,9,1,Good
+470,40,Other,Bachelor,Medium,6,18.05,5,8,5,Average
+470,40,Other,Bachelor,Complex,6,29.84,7,4,5,Average
+471,27,Other,Bachelor,Simple,6,13.82,3,7,4,Average
+471,27,Other,Bachelor,Medium,6,15.47,4,7,2,Good
+471,27,Other,Bachelor,Complex,6,41.63,7,4,5,Average
+472,23,Female,High School,Simple,6,9.02,2,6,3,Average
+472,23,Female,High School,Medium,6,31.31,6,6,2,Average
+472,23,Female,High School,Complex,6,50.6,6,6,5,Average
+473,50,Other,PhD,Simple,6,26.9,3,6,2,Average
+473,50,Other,PhD,Medium,6,26.13,6,6,4,Average
+473,50,Other,PhD,Complex,6,32.16,6,4,5,Average
+474,49,Male,Bachelor,Simple,6,25.5,4,7,3,Good
+474,49,Male,Bachelor,Medium,6,23.58,5,7,5,Average
+474,49,Male,Bachelor,Complex,6,34.72,7,3,5,Poor
+475,51,Male,PhD,Simple,6,17.57,2,6,2,Average
+475,51,Male,PhD,Medium,6,38.07,6,5,4,Average
+475,51,Male,PhD,Complex,6,51.83,6,4,7,Poor
+476,34,Male,Bachelor,Simple,6,23.37,3,8,2,Good
+476,34,Male,Bachelor,Medium,6,8.91,5,8,4,Average
+476,34,Male,Bachelor,Complex,6,34.81,6,5,5,Average
+477,50,Female,Master,Simple,6,17.25,4,6,2,Average
+477,50,Female,Master,Medium,6,29.95,4,8,5,Average
+477,50,Female,Master,Complex,6,35.48,6,6,4,Average
+478,19,Other,Master,Simple,6,11.05,2,9,2,Good
+478,19,Other,Master,Medium,6,21.24,4,8,3,Good
+478,19,Other,Master,Complex,6,50.69,9,3,6,Poor
+479,38,Female,PhD,Simple,6,20.02,3,6,1,Average
+479,38,Female,PhD,Medium,6,25.85,5,5,5,Average
+479,38,Female,PhD,Complex,6,48.07,6,2,4,Poor
+480,46,Female,Bachelor,Simple,6,6.94,4,9,2,Good
+480,46,Female,Bachelor,Medium,6,43.75,6,6,5,Average
+480,46,Female,Bachelor,Complex,6,40.65,6,6,6,Average
+481,32,Female,Bachelor,Simple,6,17.04,3,9,2,Good
+481,32,Female,Bachelor,Medium,6,22.83,4,5,3,Average
+481,32,Female,Bachelor,Complex,6,47.29,9,6,6,Average
+482,19,Female,Bachelor,Simple,6,8.01,2,7,3,Good
+482,19,Female,Bachelor,Medium,6,35.59,4,6,4,Average
+482,19,Female,Bachelor,Complex,6,43.98,6,3,6,Poor
+483,25,Other,Bachelor,Simple,6,21.97,2,7,2,Good
+483,25,Other,Bachelor,Medium,6,29.97,4,4,2,Average
+483,25,Other,Bachelor,Complex,6,56.69,7,6,7,Poor
+484,23,Male,Master,Simple,6,10.29,4,6,2,Average
+484,23,Male,Master,Medium,6,15.09,6,4,3,Average
+484,23,Male,Master,Complex,6,42.19,6,6,7,Poor
+485,20,Female,Master,Simple,6,14.56,3,6,4,Average
+485,20,Female,Master,Medium,6,28.84,5,7,2,Good
+485,20,Female,Master,Complex,6,29.86,7,5,5,Average
+486,38,Other,Master,Simple,6,19.24,3,7,1,Good
+486,38,Other,Master,Medium,6,15.32,4,7,3,Good
+486,38,Other,Master,Complex,6,28.19,9,5,6,Average
+487,63,Male,Master,Simple,6,22.59,3,9,4,Average
+487,63,Male,Master,Medium,6,29.61,5,6,3,Average
+487,63,Male,Master,Complex,6,40.26,6,5,5,Average
+488,29,Other,Master,Simple,6,18.67,4,7,2,Good
+488,29,Other,Master,Medium,6,17.84,6,7,4,Average
+488,29,Other,Master,Complex,6,34.22,6,4,8,Poor
+489,65,Other,PhD,Simple,6,21.87,4,9,3,Good
+489,65,Other,PhD,Medium,6,17.32,5,8,4,Average
+489,65,Other,PhD,Complex,6,36.63,8,6,4,Average
+490,43,Male,PhD,Simple,6,16.28,2,9,1,Good
+490,43,Male,PhD,Medium,6,28.55,5,8,4,Average
+490,43,Male,PhD,Complex,6,48.36,8,3,7,Poor
+491,55,Other,PhD,Simple,6,6.55,2,7,2,Good
+491,55,Other,PhD,Medium,6,26.35,4,4,4,Average
+491,55,Other,PhD,Complex,6,43.11,9,5,5,Average
+492,30,Female,Master,Simple,6,5.55,3,7,1,Good
+492,30,Female,Master,Medium,6,27.43,4,6,3,Average
+492,30,Female,Master,Complex,6,40.87,9,2,5,Poor
+493,51,Other,PhD,Simple,6,12.26,4,8,1,Good
+493,51,Other,PhD,Medium,6,17.94,6,7,2,Good
+493,51,Other,PhD,Complex,6,24.14,9,6,7,Poor
+494,27,Female,Master,Simple,6,11.69,2,9,4,Average
+494,27,Female,Master,Medium,6,38.46,5,5,2,Average
+494,27,Female,Master,Complex,6,32.25,7,6,7,Poor
+495,47,Male,Bachelor,Simple,6,4.67,3,7,2,Good
+495,47,Male,Bachelor,Medium,6,25.2,4,7,3,Good
+495,47,Male,Bachelor,Complex,6,45.97,7,2,6,Poor
+496,55,Other,PhD,Simple,6,13.84,4,7,4,Average
+496,55,Other,PhD,Medium,6,25.13,4,4,3,Average
+496,55,Other,PhD,Complex,6,44.73,8,2,6,Poor
+497,35,Male,PhD,Simple,6,12.56,4,7,2,Good
+497,35,Male,PhD,Medium,6,29.43,4,7,3,Good
+497,35,Male,PhD,Complex,6,41.18,8,3,4,Poor
+498,57,Male,Master,Simple,6,11.63,3,8,1,Good
+498,57,Male,Master,Medium,6,27.66,4,8,3,Good
+498,57,Male,Master,Complex,6,57.51,7,2,8,Poor
+499,51,Other,PhD,Simple,6,20.0,2,7,2,Good
+499,51,Other,PhD,Medium,6,27.27,5,8,3,Good
+499,51,Other,PhD,Complex,6,32.19,9,2,6,Poor
+500,19,Other,PhD,Simple,6,13.7,3,7,4,Average
+500,19,Other,PhD,Medium,6,12.21,4,7,3,Good
+500,19,Other,PhD,Complex,6,41.41,8,3,8,Poor
